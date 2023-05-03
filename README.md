@@ -12,6 +12,7 @@ Hola! ¿Estás cansado de sentir que no tienes suficiente información sobre có
 - Event Storming
 - Diagrama de clases
 - Modelo Entidad Relación
+- Presentación del proyecto
 
 ## Drivers Arquitectonicos ##
 - Atributos de calidad - MiniQAW
@@ -20,3 +21,4 @@ Hola! ¿Estás cansado de sentir que no tienes suficiente información sobre có
 ## Modelo arquitectónico ##
 
 - Modelo arquitectónico Apipet
+

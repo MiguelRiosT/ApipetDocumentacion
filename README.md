@@ -7,7 +7,6 @@ Hola! ¿Estás cansado de sentir que no tienes suficiente información sobre có
 
 ## Documentación ##
 
-
 - Modelo de anemico
 - Modelo enriquecido
 - Datos simulados
@@ -21,14 +20,32 @@ La información correspondiente a los anteriores documentos la encontrarás en e
 [Documentación](https://github.com/MiguelRiosT/S2Apipet/tree/main/Documentaci%C3%B3n)
 
 ## Drivers Arquitectonicos ##
-- [Atributos de calidad - MiniQAW]()
-- [Funcionalidades Criticas - Restricciones técnicas y de negocio]()
-- [Tácticas y estrategias]()
+- Atributos de calidad - MiniQAW
+- Funcionalidades Criticas - Restricciones técnicas y de negocio
+- Tácticas y estrategias
+
+La documentación correspondiente a los drivers arquitectónicos la encontrarás en este enlace:
+
+[Drivers Arquitectonicos](https://github.com/MiguelRiosT/S2Apipet/tree/main/Drivers%20Arquitectonicos)
 
 ## Modelo arquitectónico ##
 
-- [Modelo arquitectónico Apipet]()
+- Modelo arquitectónico Apipet
+- Comparativa de componentes 
+- Justificación de componentes seleccionados
 
+La documentación correspondiente al modelo arquitectónico la encontrarás en este enlace:
+
+[Modelo arquitectónico](https://github.com/MiguelRiosT/S2Apipet/tree/main/Modelo%20Arquitectonico)
+
+## Modelo de Componentes ##
+
+- Modelo de Componentes Apipet
+- Doumentación del modelo.
+
+La documentación correspondiente al Modelo de Componentes la encontrarás en este enlace:
+
+[Modelo de Componentes]()
 
 
 

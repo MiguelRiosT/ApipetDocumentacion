@@ -1,29 +1,24 @@
  #  Drivers Arquitectónicos #
 
- ## _Documentación_ ##
-
-
 ### Funcionalidades criticas  ###
 
-- **Funcionalidad critica 1:** la aplicación debe hacer....
+- El sistema debe permitir interactuar con el mapa de forma que me muestre sólo las veterinarias, centros comerciales y centros de adopción con la información de horarios y servicios que ofrecen, así como también datos de contacto.
 
-- **Funcionalidad critica 2:** la aplicación debe hacer....
+- El sistema debe poder enviarle notificaciones al dueño con la información de la próxima visita al veterinario
 
-- **Funcionalidad critica 3:** la aplicación debe hacer....
+- El sistema debe permitir ubicar un punto determinado en el mapa. 
 
 
 ### Restricciones técnicas  ###
 
-- **Restrición técnica 1:** la aplicación debe hacer....
+- El sistema debe poder enviarle notificaciones al dueño con la información de la próxima visita al veterinario.
 
-- **Restrición técnica 2:** la aplicación debe hacer....
+- El sistema debe poder enviarle notificaciones al dueño con la información de la próxima visita al veterinario.
 
-- **Restrición técnica 3:** la aplicación debe hacer.
+- El sistema debe poder enviarle notificaciones al dueño con la información de la próxima visita al veterinario.
 
 ### Restricciones de negocio  ###
 
-- **Restrición e negocio 1:** la aplicación debe hacer....
+- El mapa interactivo sólo mostrará veterinarias, Centros comerciales y Centros de Adopción de la ciudad de Rionegro.
 
-- **Restrición e negocio 2:** la aplicación debe hacer....
-
-- **Restrición e negocio 3:** la aplicación debe hacer.
+- El mapa interactivo sólo mostrará veterinarias, Centros comerciales y Centros de Adopción de la ciudad de Rionegro.

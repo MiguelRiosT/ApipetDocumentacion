@@ -15,27 +15,3 @@
 
 ![Votación](https://github.com/MiguelRiosT/S2Apipet/blob/main/Drivers%20Arquitectonicos/Atributos%20de%20calidad/votacion.png)
 
- 
-### Funcionalidades criticas  ###
-
-- **Funcionalidad critica 1:** la aplicación debe hacer....
-
-- **Funcionalidad critica 2:** la aplicación debe hacer....
-
-- **Funcionalidad critica 3:** la aplicación debe hacer....
-
-### Restricciones técnicas  ###
-
-- **Restrición técnica 1:** la aplicación debe hacer....
-
-- **Restrición técnica 2:** la aplicación debe hacer....
-
-- **Restrición técnica 3:** la aplicación debe hacer.
-
-### Restricciones de negocio  ###
-
-- **Restrición e negocio 1:** la aplicación debe hacer....
-
-- **Restrición e negocio 2:** la aplicación debe hacer....
-
-- **Restrición e negocio 3:** la aplicación debe hacer.

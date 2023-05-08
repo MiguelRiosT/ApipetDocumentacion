@@ -1,6 +1,6 @@
  #  Documentación  #
 
-### Modelo anemico ###
+### Modelo Anemico ###
 El modelo anemico sirve para explicar las entidades necesarias para brindar una solución adecuada a la visión del proyecto.
 
 ![Modelo Anemico](https://github.com/MiguelRiosT/S2Apipet/blob/main/Documentaci%C3%B3n/Modelo%20anemico/ModeloAnemico.png)

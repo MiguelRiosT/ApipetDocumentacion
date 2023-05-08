@@ -39,11 +39,54 @@ La documentación correspondiente al modelo arquitectónico la encontrarás en e
 ## Modelo de Componentes ##
 
 - Modelo de Componentes Apipet
+- Comparativa de Componentes 
+- Justificación de Componentes seleccionados
+
+La documentación correspondiente al Modelo de componentes la encontrarás en este enlace:
+
+[Modelo de componentes](https://github.com/MiguelRiosT/S2Apipet/tree/main/Modelo%20de%20Componentes)
+
+## Modelo de Paquetes ##
+
+- Modelo de Paquetes Apipet
 - Doumentación del modelo.
 
-La documentación correspondiente al Modelo de Componentes la encontrarás en este enlace:
+La documentación correspondiente al Modelo de Paquetes la encontrarás en este enlace:
 
-[Modelo de Componentes](https://github.com/MiguelRiosT/S2Apipet/tree/main/Modelo%20de%20Componentes)
+[Modelo de Paquetes](https://github.com/MiguelRiosT/S2Apipet/tree/main/Modelo%20de%20Paquetes)
 
+## Modelo de Despliegue ##
 
+- Modelo de Despliegue Apipet
+- Doumentación del modelo.
 
+La documentación correspondiente al Modelo de Despliegue la encontrarás en este enlace:
+
+[Modelo de Despliegue](https://github.com/MiguelRiosT/S2Apipet/tree/main/Modelo%20de%20Despliegue)
+
+## Modelo de Secuencia ##
+
+- Modelo de Secuencia Apipet
+- Doumentación del modelo.
+
+La documentación correspondiente al Modelo de Secuencia la encontrarás en este enlace:
+
+[Modelo de Secuencia](https://github.com/MiguelRiosT/S2Apipet/tree/main/Modelo%20de%20Secuencia)
+
+## Diagrama de Actividades ##
+
+- Diagrama de Actividades Apipet
+- Doumentación del diagrama.
+
+La documentación correspondiente al Diagrama de Actividades la encontrarás en este enlace:
+
+[Diagrama de Actividades](https://github.com/MiguelRiosT/S2Apipet/tree/main/Diagrama%20de%20Actividades)
+
+## Diagrama de Estados ##
+
+- Diagrama de Estados Apipet
+- Doumentación del diagrama.
+
+La documentación correspondiente al Diagrama de Estados la encontrarás en este enlace:
+
+[Diagrama de Estados](https://github.com/MiguelRiosT/S2Apipet/tree/main/Diagrama%20de%20Estados)

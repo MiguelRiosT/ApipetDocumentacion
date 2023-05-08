@@ -1,5 +1,8 @@
 # <center> Software 2 - Apipet  #
 
+### Integrantes:
+- Miguel Rios Tangarife
+
 _En este repositorio encontrarás toda la documentación relacionada a el proyecto Apipet, las carpetas que contienen la documentación base,los drivers arquitectónicos y modelo arquitectonico._
 
 ## Visión del proyecto ##

@@ -27,16 +27,5 @@ El modelo anemico sirve para explicar las entidades necesarias para brindar una 
 **Dueño y mascota:** Presentan una relación uno a mucho, un dueño puede tener muchas mascotas 
 
 
-### Modelo enriquecido ###
-
-### Datos simulados ###
-
-### Event Storming ###
-
-### Diagrama de clases ###
-
-### Modelo Entidad Relación ###
-
-### Presentación ###
 
 

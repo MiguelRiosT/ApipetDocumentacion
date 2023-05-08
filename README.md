@@ -7,26 +7,21 @@ Hola! ¿Estás cansado de sentir que no tienes suficiente información sobre có
 
 ## Documentación ##
 
-- Modelo de anemico
-- Modelo enriquecido
-- Datos simulados
-- Event Storming
-- Diagrama de clases
-- Modelo Entidad Relación
-- Presentación del proyecto
+- [Modelo de Anemico](https://github.com/MiguelRiosT/S2Apipet/tree/main/Documentaci%C3%B3n/Modelo%20anemico)
+- [Modelo enriquecido](https://github.com/MiguelRiosT/S2Apipet/tree/main/Documentaci%C3%B3n/Modelo%20Enriquecido)
+- [Datos simulados](https://github.com/MiguelRiosT/S2Apipet/tree/main/Documentaci%C3%B3n/Datos%20Simulados)
+- [Event Storming](https://github.com/MiguelRiosT/S2Apipet/tree/main/Documentaci%C3%B3n/EventStorming)
+- [Diagrama de clases](https://github.com/MiguelRiosT/S2Apipet/tree/main/Documentaci%C3%B3n/Diagrama%20de%20clases)
+- [Modelo Entidad Relación](https://github.com/MiguelRiosT/S2Apipet/tree/main/Documentaci%C3%B3n/Modelo%20Entidad%20Relacion)
+- [Presentación del proyecto](https://github.com/MiguelRiosT/S2Apipet/tree/main/Documentaci%C3%B3n/Presentacion)
 
-La información correspondiente a los anteriores documentos la encontrarás en este enlace:
 
-[Documentación](https://github.com/MiguelRiosT/S2Apipet/tree/main/Documentaci%C3%B3n)
 
 ## Drivers Arquitectonicos ##
-- Atributos de calidad - MiniQAW
-- Funcionalidades Criticas - Restricciones técnicas y de negocio
-- Tácticas y estrategias
+- [Atributos de calidad - MiniQAW](https://github.com/MiguelRiosT/S2Apipet/tree/main/Drivers%20Arquitectonicos/Atributos%20de%20calidad)
+- [Funcionalidades Criticas - Restricciones técnicas y de negocio](https://github.com/MiguelRiosT/S2Apipet/tree/main/Drivers%20Arquitectonicos/Funcionalidades%20Criticas%20y%20restricciones)
+- [Tácticas y estrategias](https://github.com/MiguelRiosT/S2Apipet/tree/main/Drivers%20Arquitectonicos/Tacticas%20y%20estrategias)
 
-La documentación correspondiente a los drivers arquitectónicos la encontrarás en este enlace:
-
-[Drivers Arquitectonicos](https://github.com/MiguelRiosT/S2Apipet/tree/main/Drivers%20Arquitectonicos)
 
 ## Modelo arquitectónico ##
 

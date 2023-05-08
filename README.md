@@ -45,7 +45,7 @@ La documentación correspondiente al modelo arquitectónico la encontrarás en e
 
 La documentación correspondiente al Modelo de Componentes la encontrarás en este enlace:
 
-[Modelo de Componentes]()
+[Modelo de Componentes](https://github.com/MiguelRiosT/S2Apipet/tree/main/Modelo%20de%20Componentes)
 
 
 

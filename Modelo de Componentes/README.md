@@ -1,7 +1,7 @@
  #  Modelo de Componentes #
 
 
-![Modelo de componentes]()
+![Modelo de componentes](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Modelo%20de%20Componentes/ModeloComponentesApipet.drawio.png)
 
  ## _Documentación_ ##
 
@@ -14,7 +14,7 @@
 Por lo tanto, un componente externo es aquel que se integra en el aplicativo pero no se desarrolla internamente.
 
 
-**Amarillo**: Componentes propios de la aplicación Publiuco.
+**Amarillo**: Componentes propios de la aplicación Apipet.
 
 **Componente propio del aplicativo:** Hace referencia a los elementos o partes de la aplicación que son desarrollados propiamente e internamente por el equipo de trabajo del aplicativo.
 

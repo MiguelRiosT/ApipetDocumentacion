@@ -3,8 +3,8 @@
 
 ## 1.1.2.3. Restricciones técnicas
 
-- Restriccion 1
+- El sistema debe poder enviarle notificaciones al dueño con la información de la próxima visita al veterinario.
 
-- Restriccion 2
+- El sistema debe poder enviarle notificaciones al dueño con la información de la próxima visita al veterinario.
 
-- Restriccion 3
+- El sistema debe poder enviarle notificaciones al dueño con la información de la próxima visita al veterinario.

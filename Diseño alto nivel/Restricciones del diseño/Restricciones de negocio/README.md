@@ -3,8 +3,6 @@
 
 ## 1.1.2.4. Restricciones de negocio
 
-- Restriccion de negocio 1
+- El mapa interactivo sólo mostrará veterinarias, Centros comerciales y Centros de Adopción de la ciudad de Rionegro.
 
-- Restriccion de negocio 2
-
-- Restriccion de negocio 3
+- El mapa interactivo sólo mostrará veterinarias, Centros comerciales y Centros de Adopción de la ciudad de Rionegro.

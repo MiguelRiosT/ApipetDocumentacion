@@ -1,6 +1,10 @@
- #  Documentación  #
+ #  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vista funcional  #
 
-### Event Storming ###
+## **Event Storming** 
+
+imagen
+
+
 El Event Storming sirve para...
 
 

@@ -6,17 +6,17 @@
 
 1.2.1. Vista funcional
 
-1.2.1.1. [Event Storming](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Vista%20funcional/EventStorming)
+&nbsp;&nbsp;1.2.1.1. [Event Storming](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Vista%20funcional/EventStorming)
 
-1.2.1.2. [Modelado de dominio]()
+&nbsp;&nbsp;1.2.1.2. [Modelado de dominio]()
 
-1.2.1.2.1 [Anémico]()
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.2.1 [Anémico]()
 
-1.2.1.2.2. [Enriquecido]()
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.2.2. [Enriquecido]()
 
-1.2.1.3. [Diagrama de actividades](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Diagrama%20de%20Actividades)
+&nbsp;&nbsp;1.2.1.3. [Diagrama de actividades](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Diagrama%20de%20Actividades)
 
-1.2.1.4. [Diagrama de estado](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Diagrama%20de%20Estados)
+&nbsp;&nbsp;1.2.1.4. [Diagrama de estado](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Diagrama%20de%20Estados)
 
 <br>
 

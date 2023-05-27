@@ -1,4 +1,4 @@
-# <center> Software 2 - Apipet  #
+# <center> 🐶Software 2 - Apipet 🐱  #
 
 ## 1.2. Diseño detallado
 

@@ -4,7 +4,7 @@
 
 <br>
 
-1.2.1. Vista funcional
+1.2.1. **Vista funcional**
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.2.1.1. [Event Storming](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Vista%20funcional/EventStorming)
 
@@ -20,7 +20,7 @@
 
 <br>
 
-1.2.2. Vista lógica
+1.2.2. **Vista lógica**
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.2.2.1. [Diagrama de clases]()
 
@@ -30,7 +30,7 @@
 
 <br>
 
-1.2.3. Vista Implementación
+1.2.3. **Vista Implementación**
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.2.3.1. [Diagrama de componentes]()
 
@@ -38,7 +38,7 @@
 
 <br>
 
-1.2.4. Vista de procesos
+1.2.4. **Vista de procesos**
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.2.4.1 [Diagrama de secuencia]()
 
@@ -46,7 +46,7 @@
 
 <br>
 
-1.2.5. Vista física
+1.2.5. **Vista física**
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.2.5.1. [Diagrama de despliegue]()
 

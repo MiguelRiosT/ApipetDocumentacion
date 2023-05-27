@@ -7,7 +7,9 @@
 
 1.1.1. [Vision](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20alto%20nivel/Vision)
 
-1.1.2. Restricciones del diseño
+1.1.2. [Restricciones del diseño]()
+
+1.1.3. [Alternaiva de solución]()
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1. Atributos de calidad
 

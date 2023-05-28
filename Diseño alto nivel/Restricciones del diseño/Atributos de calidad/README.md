@@ -6,7 +6,7 @@
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.1. Mapa de empatía
+&nbsp;&nbsp;1.1.2.1.1. Mapa de empatía
 
 **Importancia**
 
@@ -22,7 +22,7 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2. Características
+&nbsp;&nbsp;1.1.2.1.2. Características
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.1 Seguridad

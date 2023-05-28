@@ -4,6 +4,22 @@
 ## 1.1.2.1. Atributos de calidad
 
 
+&nbsp;&nbsp;1.1.2.1. Atributos de calidad
+
+Los atributos de calidad empleados fueron:
+
+- Seguridad
+- Escalabilidad
+- Rendimiento
+- Disponibilidad
+- Flexibilidad
+- Accesibilidad
+- Internacionalización
+- Interoperabilidad
+- Usabilidad
+- Capacidad para ser administrado
+- Capacidad
+
 <br>
 
 &nbsp;&nbsp;1.1.2.1.1. Mapa de empatía
@@ -31,43 +47,37 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.2 Escalabilidad
 
-![imagen caracteristica Escalabilidad]()
+![imagen caracteristica Escalabilidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CEscalabilidad.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.3 Rendimiento
 
-![imagen caracteristica Rendimiento]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.3 Disponibilidad
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.4 Disponibilidad
+![imagen caracteristica Disponibilidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CDisponibilidad.png)
 
-![imagen caracteristica Disponibilidad]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.4 Flexibilidad
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.5 Flexibilidad
+![imagen caracteristica Flexibilidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CFlexibilidad.png)
 
-![imagen caracteristica Flexibilidad]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.5 Accesibilidad
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.6 Accesibilidad
+![imagen caracteristica Accesibilidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CAccesibilidad.png)
 
-![imagen caracteristica Accesibilidad]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.6 Internacionalización
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.7 Internacionalización
+![imagen caracteristica Internacionalización](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CInternacionalizacion.png)
 
-![imagen caracteristica Internacionalización]()
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.8 Interoperabilidad
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.7 Usabilidad
 
-![imagen caracteristica Interoperabilidad]()
+![imagen caracteristica Usabilidad1](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/C1Usabilidad.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.9 Usabilidad
+![imagen caracteristica Usabilidad2](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/C2Usabilidad.png)
 
-![imagen caracteristica Usabilidad]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.8 Capacidad para ser administrado
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.10 Capacidad para ser administrado
+![imagen caracteristica Capacidad para ser administrado](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CCapacidadAdministrar.png)
 
-![imagen caracteristica Capacidad para ser administrado]()
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.11 Capacidad
-
-![imagen caracteristica Capacidad]()
 
 <br>
 

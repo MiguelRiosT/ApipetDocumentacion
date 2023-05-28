@@ -54,7 +54,7 @@
 
 <summary>1.2.3. Vista Implementación</summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.3.1. [Diagrama de componentes]()
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.3.1. [Diagrama de componentes](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Vista%20Implementaci%C3%B3n/Diagrama%20de%20componentes)
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.2.3.2. [Diagrama de paquetes]()
 

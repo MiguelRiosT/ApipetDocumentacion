@@ -25,4 +25,4 @@ La cualidad de proporcionar recursos y servicios bajo demanda es de vital import
 
 **¿Cómo se relacionan los elementos mencionados anteriormente?**
 
-los clientes se comunican a través del internet con un servidor, que puede estar en la nube, y este servidor proporciona los servicios necesarios para el funcionamiento de la aplicación Apipet que utilizan los usuarios.
+Los clientes se comunican a través del internet con un servidor, que puede estar en la nube, y este servidor proporciona los servicios necesarios para el funcionamiento de la aplicación Apipet que utilizan los usuarios.

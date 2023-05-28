@@ -1,9 +1,13 @@
- #  Modelo de Componentes #
+#  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐶Software 2 - Apipet 🐱  #
 
 
-![Modelo de componentes](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Modelo%20de%20Componentes/ModeloComponentesApipet.drawio.png)
+## 1.2.3.1. Diagrama de componentes
 
- ## _Documentación_ ##
+1.2.3.1.1 **Diagrama**
+
+![]()
+
+1.2.3.1.2 **Explicación**
 
 ### Significado de color de los componentes: ###
 
@@ -52,4 +56,3 @@ Por lo tanto, un componente externo es aquel que se integra en el aplicativo per
   - ApipetRepository
   - ApipetService
   - ApipetApi
-

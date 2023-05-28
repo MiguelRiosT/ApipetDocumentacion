@@ -1,17 +1,24 @@
- #  Drivers Arquitectónicos #
+#  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐶Software 2 - Apipet 🐱  #
 
- ## _Documentación_ ##
 
-### Atributos de calidad ###
-- **Mapa de empatía:** En el mapa de empatía se puede observar que hay mayor preferencia por  
+## 1.1.2.1. Atributos de calidad
 
-![Mapa de empatía](https://github.com/MiguelRiosT/S2Apipet/blob/main/Drivers%20Arquitectonicos/Atributos%20de%20calidad/MapaEmpatia.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.1. [Mapa de empatía]()
 
-- **Priorización:** En la gráfica de priorización se observa una inclinación hacia 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2. [Características]()
 
-![Priorización](https://github.com/MiguelRiosT/S2Apipet/blob/main/Drivers%20Arquitectonicos/Atributos%20de%20calidad/Priorizacion.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.1 [Atributo de calidad]()
 
-- **Votación:** En la votación los atributos con más votos fueron...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.2 [Priorización/votación]()
 
-![Votación](https://github.com/MiguelRiosT/S2Apipet/blob/main/Drivers%20Arquitectonicos/Atributos%20de%20calidad/votacion.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3. Escenario de calidad
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.1 [Atributo de calidad]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.2 [Escenario de calidad por característica]()
+
+<br>
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.4. [Estrategias y tácticas]()

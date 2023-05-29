@@ -101,15 +101,53 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3. Escenarios de calidad
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.1 Seguridad
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.1. Seguridad
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.1 Escalabilidad
+![imagen Escenarios de calidad Seguridad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Seguridad.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.2 Escenario de calidad por característica
+![imagen Escenarios de calidad Seguridad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E2Seguridad.png)
 
-//////////////////////////////////////////////////////////////////
+![imagen Escenarios de calidad Seguridad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E3Seguridad.png)
 
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.2. Accesibilidad
+
+![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Accesibilidad.png)
+
+![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E2Accesibilidad.png)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.3. Capacidad de ser administrado
+
+![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1CapacidadAdministrado.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.4. Disponibilidad
+
+![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Disponibilidad.png)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.5. Escalabilidad
+
+![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Escalabilidad.png)
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.6. Flexibilidad
+
+![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Flexibilidad.png)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.7. Internacionalización
+
+![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Internacionalizacion.png)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.8. Usabilidad
+
+![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Usabilidad.png)
+
+
+
+
 
 <br>
 

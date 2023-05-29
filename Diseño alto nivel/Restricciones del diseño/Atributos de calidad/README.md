@@ -184,11 +184,19 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.1. Seguridad
 
-![imagen Escenarios de calidad Seguridad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Seguridad.png)
+|  |  |
+|-----------|-----------|
+|   **Escenario**        | El sistema debe implementar un proceso seguro y confiable de autenticación de usuarios, a fin de garantizar que solo aquellos que han sido autorizados puedan acceder a la aplicación Apipet y realizar acciones en ella. Esto permitirá llevar un registro completo de los ingresos y del uso que se hace de la aplicación, asegurando así una gestión adecuada y transparente de la misma.          |
+|   **Atributo**        |   Seguridad        |
+|     **Característica**      |   El sistema debe autenticar el usuario para brindarle acceso a las personas que quieran usar Apipet, para de esta manera llevar el control de los ingresos y el manejo de la aplicación.		        |
 
-![imagen Escenarios de calidad Seguridad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E2Seguridad.png)
 
-![imagen Escenarios de calidad Seguridad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E3Seguridad.png)
+
+|  **Fuente Estímulo**   | **Estímulo**     | **Ambiente**     | **Artefacto**     | **Respuesta**     | **Medida Respuesta**    |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Administrador del sistema          |  Ingresar a la aplicación         |   Normal        |    Modulo de autenticación       |   Cuando se ingrese en el sistema de información se deben mostrar en pantalla las opciones correctas para el admin dashboard        |   Se pueden hacer uso sólo de las acciones correspondientes a un administrador del sistema        |
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.2. Accesibilidad
 

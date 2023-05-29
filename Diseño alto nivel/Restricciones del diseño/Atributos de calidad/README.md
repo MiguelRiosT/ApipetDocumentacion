@@ -48,7 +48,7 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 <br>
 
-| Característica de seguridad |
+|<span style="background-color: black"> Característica de seguridad |
 |------------|
 | El sistema debe enviar un correo electrónico al registrar un usuario donde autentifique su identidad     |
 | El sistema debe autenticar el usuario para brimdarle acceso a las personas que quieran usar Apipet, para de esta manera llevar el control de los ingresosy el manejo de la aplicación.    |

@@ -184,6 +184,8 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.1. Seguridad
 
+ **Escenario 1**
+
 |  |  |
 |-----------|-----------|
 |   **Escenario**        | El sistema debe implementar un proceso seguro y confiable de autenticación de usuarios, a fin de garantizar que solo aquellos que han sido autorizados puedan acceder a la aplicación Apipet y realizar acciones en ella. Esto permitirá llevar un registro completo de los ingresos y del uso que se hace de la aplicación, asegurando así una gestión adecuada y transparente de la misma.          |
@@ -196,7 +198,43 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Administrador del sistema          |  Ingresar a la aplicación         |   Normal        |    Modulo de autenticación       |   Cuando se ingrese en el sistema de información se deben mostrar en pantalla las opciones correctas para el admin dashboard        |   Se pueden hacer uso sólo de las acciones correspondientes a un administrador del sistema        |
 
+<br>
 
+<br>
+
+ **Escenario 2**
+
+|  |  |
+|-----------|-----------|
+|   **Escenario**        | El sistema debe implementar un proceso seguro y confiable de autenticación de usuarios, a fin de garantizar que solo aquellos que han sido autorizados puedan acceder a la aplicación Apipet y realizar acciones en ella. Esto permitirá llevar un registro completo de los ingresos y del uso que se hace de la aplicación, asegurando así una gestión adecuada y transparente de la misma.         |
+|   **Atributo**        |   Seguridad        |
+|     **Característica**      |   El sistema debe autenticar el usuario para brindarle acceso a las personas que quieran usar Apipet, para de esta manera llevar el control de los ingresos y el manejo de la aplicación		        |
+
+
+
+|  **Fuente Estímulo**   | **Estímulo**     | **Ambiente**     | **Artefacto**     | **Respuesta**     | **Medida Respuesta**    |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Usuario ( Dueño )          |  Ingresar a la aplicación         |   Normal        |    Modulo de autenticación       |   Cuando se ingrese en el sistema de información se deben mostrar en pantalla las opciones de owner dashboard, el manejo de sus mascotas, el mapa interactivo y los cuidados pertinentes para la mascota        |   Se pueden hacer uso sólo de las acciones correspondientes a un usuario        |
+
+<br>
+
+<br>
+
+ **Escenario 3**
+
+|  |  |
+|-----------|-----------|
+|   **Escenario**        | El sistema debe enviar un correo electrónico de bienvenida al usuario después de que se haya registrado en la aplicación, con un enlace para confirmar y autenticar su identidad. El enlace enviado en el correo electrónico debe llevar al usuario a una página de confirmación en la que se le solicite que ingrese información adicional, como su dirección de correo electrónico y su contraseña. Esto permitirá al sistema verificar la identidad del usuario y garantizar que solo los usuarios autorizados tengan acceso a la aplicación. Además, la página de confirmación debe ser fácil de usar y proporcionar una experiencia de usuario intuitiva, para asegurar que el proceso de autenticación sea rápido y sencillo para el usuario.         |
+|   **Atributo**        |   Seguridad        |
+|     **Característica**      |   El sistema debe enviar un correo electronico al registrar un usuario donde autentifique su identidad 	        |
+
+
+
+|  **Fuente Estímulo**   | **Estímulo**     | **Ambiente**     | **Artefacto**     | **Respuesta**     | **Medida Respuesta**    |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Administrador del sistema          |  Se envia correo electronico de autentificación al usuario para validar su identidad        |   Normal        |    Modulo de autenticación       |   El sistema debe enviarle al usuario una url donde valide el token de acceso       |  Le llega al usuario el correo |
+
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.2. Accesibilidad
 

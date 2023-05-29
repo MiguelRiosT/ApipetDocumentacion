@@ -4,7 +4,10 @@
 ## 1.1.3.2. Arquitectura referencia
 
 
-
 1.1.3.2.1. Diagrama arquitectura referencia
 
+![Diagrama arquitectura referencia](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Alternativa%20de%20soluci%C3%B3n/Arquitectura%20referencia/ArquitecturaReferencia.drawio.png)
+
 1.1.3.2.2. Explicación diagra aquitectura referencia
+
+**Componentes:**

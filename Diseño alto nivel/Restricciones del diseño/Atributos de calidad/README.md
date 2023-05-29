@@ -55,11 +55,16 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 <br>
 
-![imagen caracteristica seguridad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CSeguridad.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.2 Escalabilidad
 
-![imagen caracteristica Escalabilidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CEscalabilidad.png)
+<br>
+
+| Característica de escalabilidad |
+|------------|
+| El sistema debe tener un crecimiento respecto a la cantidad de usuarios y mascotas que se hayan registrado en ceustión de base de datos    |
+
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.3 Disponibilidad

@@ -57,9 +57,18 @@ PostgreSQL es un sistema de gestión de bases de datos relacional de código abi
 
 1.1.3.4.4  **Notificaciones**: SendGrid 
 
-![imagen SendGrid]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![imagen SendGrid](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Alternativa%20de%20soluci%C3%B3n/Plataforma%20tecnol%C3%B3gica/SendGridLogo.png)
+
+SendGrid es un servicio en la nube que facilita el envío de correos electrónicos a gran escala de manera confiable y segura. Proporciona una infraestructura robusta y escalable para el envío y la entrega de correos electrónicos transaccionales y de marketing.
 
 ¿Por qué SendGrid?
+
+- Principalmente por su característica de fácil integración a los diversos tipos de proyectos en los que se requiera.
+
+- Su "Free Trial" permite a los usuarios probar y utilizar el servicio de envío de correos electrónicos de forma limitada y gratuita durante un período de tiempo determinado. Esto para motivos de aprendizaje y implementación en el equipo de trabajo es un punto ganador.
+
+
+
 
 <br>
 
@@ -81,7 +90,7 @@ PostgreSQL es un sistema de gestión de bases de datos relacional de código abi
 
 ### Stack tecnológico resultante:
 
-FrontEnd: Angular
+FrontEnd: Angular 
 
 BackEnd: SpringBoot
 

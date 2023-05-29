@@ -46,6 +46,15 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.1 Seguridad
 
+<br>
+
+| Característica de seguridad |
+|------------|
+| El sistema debe enviar un correo electrónico al registrar un usuario donde autentifique su identidad     |
+| El sistema debe autenticar el usuario para brimdarle acceso a las personas que quieran usar Apipet, para de esta manera llevar el control de los ingresosy el manejo de la aplicación.    |
+
+<br>
+
 ![imagen caracteristica seguridad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CSeguridad.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.2 Escalabilidad
@@ -203,3 +212,9 @@ Estrategia:
 Táctica:
 
 Estrategia: 
+
+
+
+
+
+

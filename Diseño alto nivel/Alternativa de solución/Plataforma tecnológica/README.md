@@ -40,9 +40,18 @@ Spring Boot es un framework de desarrollo de aplicaciones basado en Java que fac
 
 1.1.3.4.3  **Base de datos**: PostgreSQL 
 
-![imagen PostgreSQL]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![imagen PostgreSQL](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Alternativa%20de%20soluci%C3%B3n/Plataforma%20tecnol%C3%B3gica/PostgreSQLLogo.png)
+
+PostgreSQL es un sistema de gestión de bases de datos relacional de código abierto y altamente escalable. Es conocido por su confiabilidad, flexibilidad y capacidad para manejar grandes volúmenes de datos y cargas de trabajo intensivas. PostgreSQL es compatible con múltiples plataformas, lo que permite su ejecución en diversos sistemas operativos.
 
 ¿Por qué PostgreSQL?
+
+- Para el aplicativo es requerido emplear bases de datos relacionales, el equipo de trabajo solo ha tenido acercamiento a MongoDB y PostgreSQL por lo que se empleará PostgreSQL en este caso.
+
+- El uso de una interfaz gráfica de usuario para PostgreSQL como lo es pgAdmin es de una gran utilidad por su accesible nivel técnico y su capacidad para ayudar al equipo de desarrollo a interactuar con la base de datos.
+
+
+
 
 <br>
 

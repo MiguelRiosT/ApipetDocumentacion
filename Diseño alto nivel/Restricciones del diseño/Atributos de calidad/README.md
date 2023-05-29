@@ -62,58 +62,121 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 | Característica de escalabilidad |
 |------------|
-| El sistema debe tener un crecimiento respecto a la cantidad de usuarios y mascotas que se hayan registrado en ceustión de base de datos    |
+| El sistema debe tener un crecimiento respecto a la cantidad de usuarios y mascotas que se hayan registrado en cuestión de base de datos    |
 
-
+<br>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.3 Disponibilidad
 
-![imagen caracteristica Disponibilidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CDisponibilidad.png)
+<br>
+
+| Característica de disponibilidad |
+|------------|
+| El sistema debe enviar recordatorios a los usuarios de los cuidados que se hayan registrado, teniendo en cuenta la mascota a la cual va ligado el cuidado y también los tiempos que se considera pertinentes para realizar el cuidado de nuevo   |
+
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.4 Flexibilidad
 
-![imagen caracteristica Flexibilidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CFlexibilidad.png)
+<br>
+
+| Característica de flexibilidad |
+|------------|
+| Permiteme escoger los días de antelación en la que quiere recibir un recordatorio especial antes de que ocurra una fecha, estos días los podré escoger entre 1,3 y 4 días antes |
+| El sistema debe permitir registrar un cuidado para las mascotas que ya se encuentren registradas dentro de la aplicación |
+| El sistema debe permitir que un usuario registre más de una mascota |
+
+<br>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.5 Accesibilidad
 
-![imagen caracteristica Accesibilidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CAccesibilidad.png)
+<br>
+
+| Característica de accesibilidad |
+|------------|
+| El sistema debe permitir a los usuarios registrarse por medio de una cuenta de terceros como lo es google, facebook o twitter |
+|El sistema debe mostrar las ubicaciones de los lugares de interés dentro del mapa |
+| El aplicativo debe funcionar tanto en dispositivos móviles como en la web |
+| El aplicativo debe ser responsivo con la pantalla del usuario |
+
+<br>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.6 Internacionalización
 
-![imagen caracteristica Internacionalización](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CInternacionalizacion.png)
+<br>
+
+| Característica de internacionalización |
+|------------|
+| El aplicativo debe mostrarle información de interés al usuario dependiendo de la raza de la mascota que se haya ingresado |
+
+<br>
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.7 Usabilidad
 
-![imagen caracteristica Usabilidad1](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/C1Usabilidad.png)
+<br>
 
-![imagen caracteristica Usabilidad2](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/C2Usabilidad.png)
+| Característica de usabilidad |
+|------------|
+| La aplicación debe mostrarme de forma bonita la edad de mi mascota |
+| La aplicación debe decirme si mi mascota esta obesa o desnutrida según el peso, altura y su raza |
+| El sistema debe permitir a los usuarios registrar sus mascotas |
+| El icono debe ser bonito |
+| Recordarme mediante notificación frecuentemente frases tipo: "la mascota ve el mundo como tu se lo quieras hacer ver, JUEGA CON ELLA" |
+| Cuando un usuario se esté registrando con un correo o cuenta ya existente, el sistema debe avisar que la cuenta ya se ha registrado |
+| El sistema debe mostrar los cuidados básicos sugeridos dependiendo de la mascota que se haya registrado usando como criterio la especie |
+| El sistema debe notificarme recurrentemente en caso de olvidar una fecha importante, con cada día de olvido deberá ser más intenso el recordatorio |
+| El sistema debe permitir agregar la información de los lugares que se han registrado dentro del mapa interactivo, como la hora de apertura y cierre, servicios que ofrecén y una breve descripción del establecimiento |
+| El mapa interactivo debe tener iconos alusivos a los lugares como las centros comerciales, veterinarias y centros de adopción para que resalte en el mapa |
+| Si un usuario olvida su contraseña debe poder recuperarla por medio del correo electrónico que haya registrado dentro de Apipet |
+| La aplicacion debe permitir visualizar el historial de higiene y salud |
+| Un usuario puede poner una foto de su mascota en el momento del registro |
+| La aplicación debe contener botones que guien al usuario dentro de las diferentes páginas, como mis mascotas, el mapa y los sitios de interés que se encuentran cerca del usuario |
+| El sistema debe verificar que se hayan llenado los campos necesarios para poder agregar una mascota dentro de la aplicación, no se pueden dejar campos vacíos |
+| El sistema debe permitir a los usuarios que agreguen los cuidados recientes que le han practicado a sus mascotas como por ejemplo el último baño con su fecha o la ultima desparacitación |
+| El aplicativo debe permitirme escoger un avatar o subir una foto de perfil |
+| La letra y el color de la aplicación debe seguir el branding que se ha entregado en los mockups |
+| El aplicativo debe recordar la fecha de cumpleaños del dueño y añadirle una frase de cumpleaños |
+| El sistema debe verificar que la fecha de los cuidados sea una fecha que no haya pasado hace más de 8 días para poder llevar un control acertado de las sugerencias de los cuidados que se deben tomar con la mascota |
+| La aplicación debe estar en capacidad de mostrarme información de la raza de mi mascota, como su temperamento, historia, caracteristicas |
+| El aplicativo en la pantalla principal debe decirme buenos días, tardes o noches dependiendo la hora del día al iniciar la app |
+| Las tarjetas principales de la pantalal principal mis mascotas, cuidados básicos y mapa deben tener una descripción |
+| El aplicativo debe recordar la fecha de cumpleaños de la mascota y añadirle una frase de cumpleaños |
+| El aplicativo debe ser solo de perros y gatos |
+
+<br>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.8 Capacidad para ser administrado
 
-![imagen caracteristica Capacidad para ser administrado](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Caracteristicas/CCapacidadAdministrar.png)
+<br>
 
-
+| Característica de capacidad para ser administrado |
+|------------|
+| El sistema debe permitir resgistrar los lugares de interés como centros de adopción, centros comerciales y veterinarias para que luego los usuarios puedan encontrarlos y tenerlos en cuenta al momento de una visita |
 
 <br>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.2 Priorización
 
 
-**Priorización**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Priorización**
 
 
 ![](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Priorizaci%C3%B3n/Priorizacion.png)
 
-**Votación**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Votación**
 
 
 ![](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Priorizaci%C3%B3n/votacion.png)
 
 
-/////////////////////////////////////////////////////////////////////////////////
-
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3. Escenarios de calidad
 

@@ -23,10 +23,18 @@ Angular es un framework de desarrollo web de código abierto y basado en JavaScr
 
 1.1.3.4.2  **BackEnd**: SpringBoot 
 
-![imagen springboot]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![imagen springboot](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Alternativa%20de%20soluci%C3%B3n/Plataforma%20tecnol%C3%B3gica/SpringBootLogo.png)
+
+Spring Boot es un framework de desarrollo de aplicaciones basado en Java que facilita la creación de aplicaciones web y servicios REST de manera rápida y sencilla. Proporciona un enfoque simplificado para la configuración y el desarrollo, eliminando gran parte de la complejidad asociada con la configuración manual de una aplicación Spring tradicional.
 
 ¿Por qué SpringBoot?
 
+- Es un framework para BackEnd el cuál ha sido el único que ha trabajado el equipo de desarrollo por lo que existe cierta familiaridad con este.
+
+- El entorno de desarrollo empleado el cuál es Eclipse se adapta fácilmente a este framework lo que permite progresar sin muchos contratiempos en el desarrollo.
+
+- Springboot principalmente maneja como lenguaje Java, el equipo de desarrollo tiene conocimiento y acermcamiento con este lenguaje por lo que es un motivo de peso para emplear SpringBoot.
 
 <br>
 

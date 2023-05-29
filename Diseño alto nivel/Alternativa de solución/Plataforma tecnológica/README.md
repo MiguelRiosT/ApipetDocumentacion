@@ -74,17 +74,29 @@ SendGrid es un servicio en la nube que facilita el envío de correos electrónic
 
 1.1.3.4.5  **Proveedor de identidades**: Auth0 
 
-![imagen Auth0]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![imagen Auth0](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Alternativa%20de%20soluci%C3%B3n/Plataforma%20tecnol%C3%B3gica/Auth0Logo.png)
+
+Auth0 es un servicio de gestión de identidad y acceso (IAM) que proporciona soluciones de autenticación y autorización para aplicaciones y servicios web. Su objetivo es simplificar y asegurar el proceso de autenticación de usuarios, permitiendo a los desarrolladores agregar fácilmente funcionalidades de inicio de sesión y seguridad a sus aplicaciones.
 
 ¿Por qué Auth0?
+
+- El equipo de desarrollo considera que para el aplicativo es parte importante para la seguridad de los usuarios como tal.
+
+- Para el equipo de desarrollo se presenta como un reto técnico implementar Auth0 a su aplicativo pero será de mucho valor de aprendizaje el afrontar esta implementación.
 
 <br>
 
 1.1.3.4.6  **Administrador de claves**: KeyVault 
 
-![imagen KeyVault]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![imagen KeyVault](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Alternativa%20de%20soluci%C3%B3n/Plataforma%20tecnol%C3%B3gica/KeyVaultLogo.png)
+
+ Su objetivo principal es ayudar a las aplicaciones a gestionar y proteger de forma segura sus claves de cifrado, secretos y certificados.
 
 ¿Por qué KeyVault?
+
+- En complemento con Auth0 presenta una mejora significativa a la segurida de los usuarios.
+
+- Para el equipo de desarrollo se presenta como una opción muy importante a tener en cuenta.
 
 <br>
 

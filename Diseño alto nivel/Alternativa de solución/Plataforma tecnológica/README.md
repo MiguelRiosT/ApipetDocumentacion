@@ -4,33 +4,25 @@
 ## 1.1.3.4. Plataforma tecnológica
 
 
-1.1.3.4.1 < componentes de 1 a N >
+1.1.3.4.1  **FrontEnd** : Angular
+
+
+![imagen angular]()
+
+¿Por qué Angular?
+
+<br>
+
+1.1.3.4.2  **BackEnd**: SpringBoot 
+
+![imagen springboot]()
+
+¿Por qué SpringBoot?
 
 
 
- #  Modelo Arquitectónico  #
+### Stack tecnológico resultante:
 
-### Documentación ###
+FrontEnd: Angular
 
-### Comparativa de Componentes ###
-
-- Front End: para el Front End se consideraron los siguientes componentes/frameworks?
-    - React
-    - Angular
-    - Vue.js
-
-- Back End: para el Back End se consideraron los siguientes componentes/frameworks?
-    - Django
-    - Nodejs
-
-
-
-### Componentes seleccionados: ###  
-Los componentes seleccionados son los siguientes para sus respectivas funciones.
-
-- Front End: React
-- Back End: Django? 
-
-
-###  Justificación Componentes seleccionados: ###  
-Los anteriores componentes fueron seleccionados pensando en...
+BackEnd: SpringBoot

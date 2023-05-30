@@ -7,5 +7,5 @@
 
 - El sistema debe poder enviarle notificaciones al dueño con la información de la próxima visita al veterinario.
 
-- El sistema debe permitir ubicar un punto determinado en el mapa
+- El sistema debe permitir resgistrar un punto determinado en el mapa asociado a un lugar.
 

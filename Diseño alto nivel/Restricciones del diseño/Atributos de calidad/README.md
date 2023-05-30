@@ -405,15 +405,35 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Seguridad**
 
-Táctica:
+Táctica: Implementar medidas de seguridad para proteger los datos y la privacidad de los usuarios, así como prevenir ataques y vulnerabilidades.
 
-Estrategia: 
+Para cumplir con la táctica se planea implementar las siguientes medidas:
+
+Estrategias:
+
+- Autenticación y autorización robustas: Utilizar un sistema de autenticación seguro, como OAuth o OpenID Connect, para autenticar a los usuarios de manera segura. Asimismo, implementar un mecanismo de autorización que asegure que los usuarios solo puedan acceder a los recursos y funcionalidades adecuadas.
+
+- Encriptación de datos sensibles: Aplicar técnicas de encriptación para proteger datos sensibles, como contraseñas, información financiera o datos personales. Esto incluye almacenar las contraseñas en una forma irreversiblemente encriptada utilizando algoritmos seguros, y encriptar la comunicación entre la aplicación y los usuarios mediante el uso de protocolos seguros como HTTPS.
+
+- Protección contra ataques: Implementar medidas de protección contra ataques comunes, como inyecciones de código, ataques de fuerza bruta y ataques de denegación de servicio (DDoS). Esto puede lograrse mediante la validación y saneamiento de datos de entrada, el uso de firewalls y la implementación de límites de solicitud.
+
+- Administrador de claves: Implementarlo con el fin ayudar a las aplicaciones a gestionar y proteger de forma segura sus claves de cifrado, secretos y certificados, puede ser Microsoft Azure con KeyVault.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Escalabilidad**
 
-Táctica:
+Táctica: Diseñar la aplicación para que pueda manejar eficientemente un aumento en la demanda y escalar horizontalmente según sea necesario.
 
-Estrategia: 
+Para cumplir con la táctica se planea implementar las siguientes medidas:
+
+Estrategias: 
+
+- Arquitectura distribuida: Diseñar la aplicación utilizando una arquitectura distribuida, donde los diferentes componentes puedan ser escalados independientemente según la demanda. Esto puede implicar la separación de la aplicación en microservicios que puedan ser escalados individualmente.
+
+- Uso de servicios en la nube: Aprovechar servicios en la nube que ofrezcan la capacidad de escalar automáticamente los recursos de acuerdo con la carga de trabajo. Esto puede incluir el uso de servicios de cómputo elástico, bases de datos escalables y sistemas de almacenamiento distribuido.
+
+- Monitoreo de rendimiento: Implementar un sistema de monitoreo que permita realizar un seguimiento del rendimiento de la aplicación y detectar cuellos de botella o áreas de mejora. Esto facilita la optimización y el ajuste de la aplicación para una mejor escalabilidad.
+
+- Pruebas de carga: Realizar pruebas de carga periódicas para evaluar el rendimiento y la capacidad de escalabilidad de la aplicación bajo cargas de trabajo intensas. Esto ayuda a identificar posibles puntos débiles y tomar medidas preventivas antes de que la aplicación se vea afectada por una carga excesiva.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Disponibilidad**
 
@@ -433,17 +453,28 @@ Estrategias:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Flexibilidad**
 
-Táctica:
+Táctica: Diseñar la aplicación de manera que pueda adaptarse y evolucionar fácilmente para satisfacer nuevas necesidades y requisitos.
 
-Estrategia: 
+Para cumplir con la táctica se planea implementar las siguientes medidas:
+
+Estrategias: 
+
+- Arquitectura modular: Diseñar la aplicación utilizando una arquitectura modular y orientada a componentes, donde los diferentes módulos puedan ser modificados o reemplazados de manera independiente sin afectar el funcionamiento general de la aplicación. Esto facilita la incorporación de nuevas funcionalidades o la adaptación de las existentes.
+
+- Extensibilidad: Diseñar la aplicación de manera que permita la incorporación de extensiones o complementos de terceros para agregar funcionalidades adicionales. Esto puede lograrse mediante el uso de interfaces bien definidas y puntos de extensión que faciliten la integración de nuevos componentes o servicios.
+
+- Configurabilidad: Proporcionar opciones de configuración flexibles que permitan a los usuarios adaptar la aplicación a sus necesidades y preferencias específicas. Esto puede incluir la capacidad de personalizar la apariencia, el comportamiento y las reglas de negocio a través de configuraciones sin necesidad de modificar el código fuente.
+
+- Integración con servicios externos: Diseñar la aplicación para que sea compatible con la integración de servicios externos, como API de terceros o sistemas de gestión empresarial. Esto permite aprovechar la funcionalidad y datos de otros sistemas, lo que aumenta la flexibilidad y el alcance de la aplicación.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Accesibilidad**
 
 Táctica: Garantizar que la aplicación sea accesible para usuarios con discapacidades y cumpla con los estándares de accesibilidad.
 
+Para cumplir con la táctica se planea implementar las siguientes medidas:
+
 Estrategias: 
 
-Para cumplir con la táctica se planea implementar las siguientes medidas:
 
 - Diseño responsivo: La interfaz de usuario debe adaptarse correctamente a las diferentes resoluciones de pantalla de los usuarios, de maneara que el aplicativo tenga presentación adecuada en móviles, tablets y computadoras.
 
@@ -454,22 +485,47 @@ Para cumplir con la táctica se planea implementar las siguientes medidas:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Internacionalización**
 
-Táctica:
+Táctica: Diseñar la aplicación de manera que sea fácilmente adaptable a diferentes idiomas, culturas y regiones.
 
-Estrategia: 
+Para cumplir con la táctica se planea implementar las siguientes medidas:
+
+Estrategias: 
+
+- Diseño de interfaz flexible: Diseñar la interfaz de usuario de manera que pueda acomodar diferentes longitudes de texto y formatos de idioma. Considerar la posibilidad de utilizar diseño adaptable y elástico para evitar problemas de desbordamiento o superposición de texto en diferentes idiomas.
+
+- Soporte para localización: Permitir la localización de la aplicación mediante el uso de archivos de recursos o bases de datos para almacenar los textos utilizados en la interfaz de usuario. Esto facilita la traducción y adaptación de la aplicación a diferentes idiomas.
+
+- Formatos y estándares regionales: Asegurarse de que la aplicación sea compatible con los formatos y estándares regionales, como formatos de fecha, hora, moneda y unidades de medida específicas de cada región. Esto garantiza que la aplicación se ajuste adecuadamente a las preferencias y expectativas de los usuarios en diferentes lugares del mundo.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Usabilidad**
 
-Táctica:
+Táctica: Diseñar la aplicación de manera que sea intuitiva, fácil de usar y satisfaga las necesidades de los usuarios.
 
-Estrategia: 
+Para cumplir con la táctica se planea implementar las siguientes medidas:
+
+Estrategias:  
+
+- Investigación de usuarios: Realizar investigaciones y pruebas con usuarios para comprender sus necesidades, comportamientos y expectativas. Esto ayuda a diseñar una interfaz de usuario que sea relevante y fácil de usar para el público objetivo.
+
+- Diseño centrado en el usuario: Utilizar técnicas de diseño centrado en el usuario, como la creación de personas y escenarios de uso, para garantizar que la aplicación sea diseñada teniendo en cuenta las necesidades y objetivos de los usuarios. Esto implica organizar la información de manera lógica, proporcionar navegación clara y utilizar elementos de interfaz consistentes.
+
+- Retroalimentación y validación continua: Obtener comentarios de los usuarios durante el proceso de desarrollo y realizar pruebas de usabilidad para validar la eficacia y facilidad de uso de la aplicación. Esto permite identificar áreas de mejora y realizar ajustes necesarios antes del lanzamiento.
+
+- Documentación y ayuda contextual: Proporcionar documentación clara y concisa, así como ayuda contextual dentro de la aplicación, para guiar a los usuarios y ayudarles a comprender cómo utilizar las diferentes funcionalidades. Esto puede incluir tutoriales interactivos, mensajes de ayuda contextual y documentación en línea fácilmente accesible.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Capacidad para ser administrado**
 
-Táctica:
+Táctica: Diseñar la aplicación de manera que sea fácil de administrar, mantener y monitorear por parte de los equipos de operaciones y administración del sistema.
 
-Estrategia: 
+Para cumplir con la táctica se planea implementar las siguientes medidas:
 
+Estrategias: 
+
+- Panel de administración intuitivo: Crear un panel de administración con una interfaz intuitiva que permita a los administradores configurar y gestionar la aplicación de manera eficiente. Esto puede incluir opciones para administrar usuarios, roles, configuraciones y realizar tareas de mantenimiento.
+
+- Registro y monitoreo de registros: Implementar un sistema de registro robusto que registre eventos, errores y actividades relevantes de la aplicación. Esto facilita el seguimiento y análisis de problemas, así como la generación de informes y métricas para evaluar el rendimiento y la salud del sistema.
+
+- Automatización de tareas de administración: Automatizar tareas recurrentes de administración, como copias de seguridad, actualizaciones de software, despliegue de nuevas versiones y configuraciones. Esto reduce la carga de trabajo manual y minimiza los errores humanos al realizar estas tareas.
 
 
 

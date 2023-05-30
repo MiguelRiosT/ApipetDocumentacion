@@ -1,6 +1,6 @@
 #  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐶Software 2 - Apipet 🐱  #
 
-![Logo Apipet](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/logo/ApipetLogo.png)
+![Logo Apipet](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/logo/LogoApipet.png)
 
 
 ## Indice de contenido

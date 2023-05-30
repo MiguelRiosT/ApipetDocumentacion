@@ -411,7 +411,7 @@ Para cumplir con la táctica se planea implementar las siguientes medidas:
 
 Estrategias:
 
-- **Autenticación y autorización robustas:** Utilizar un sistema de autenticación seguro, como OAuth o OpenID Connect, para autenticar a los usuarios de manera segura. Asimismo, implementar un mecanismo de autorización que asegure que los usuarios solo puedan acceder a los recursos y funcionalidades adecuadas.
+- **Autenticación y autorización robustas:** Utilizar un sistema de autenticación seguro, como Auth o OpenID Connect, para autenticar a los usuarios de manera segura. Asimismo, implementar un mecanismo de autorización que asegure que los usuarios solo puedan acceder a los recursos y funcionalidades adecuadas.
 
 - **Encriptación de datos sensibles:** Aplicar técnicas de encriptación para proteger datos sensibles, como contraseñas, información financiera o datos personales. Esto incluye almacenar las contraseñas en una forma irreversiblemente encriptada utilizando algoritmos seguros, y encriptar la comunicación entre la aplicación y los usuarios mediante el uso de protocolos seguros como HTTPS.
 

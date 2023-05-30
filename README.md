@@ -11,6 +11,6 @@
 
     1.2 [Diseño detallado](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado)
 
-    1.3 [Linea base]()
+    1.3 [Linea base](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Linea%20base)
 
 

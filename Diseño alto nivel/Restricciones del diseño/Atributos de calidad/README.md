@@ -276,34 +276,126 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.3. Capacidad de ser administrado
 
-![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1CapacidadAdministrado.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Escenario capacidad de ser administrado 1**
+
+|  |  |
+|-----------|-----------|
+|   **Escenario**        |El sistema debe permitir a los administradores del sistema y a los dueños de establecimientos agregar nuevos lugares de interés relevantes para la comunidad de mascotas, como centros de adopción, centros comerciales y clínicas veterinarias. Estos lugares deben ser fácilmente registrados por los actores, proporcionando información importante como el nombre, la ubicación, los horarios de atención, los servicios que se ofrecen. Además, una vez que se hayan registrado estos lugares, el sistema debe hacerlos disponibles en la funcionalidad de visualización de mapas, permitiendo a los usuarios encontrarlos fácilmente y tenerlos en cuenta al momento de planificar una visita o buscar servicios para sus mascotas.         |
+|   **Atributo**        |   Capacidad para ser administrado        |
+|     **Característica**      |   El sistema debe permitir registrar los lugares de interés como centros de adopción, centros comerciales y veterinarias para que luego los usuarios puedan encontrarlos y tenerlos en cuenta al momento de una visita			        |
+
+
+|  **Fuente Estímulo**   | **Estímulo**     | **Ambiente**     | **Artefacto**     | **Respuesta**     | **Medida Respuesta**    |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Administrador del sistema        |  Registrar un nuevo lugar dentro del mapa interactivo       |   Normal        |   Modulo del mapa    |   Una vez se registren los nuevos lugares dentro del mapa, una vez un usuario ingrese dentro del mapa usando la aplicación debe poder ver la nueva información que se ha agregado |   Cuando se consulte el mapa interactivo y se de un vistazo dentro de la ubicación del nuevo lugar, tanto administradores como usuarios deben tener la capacidad de verlo      |
+
+<br>
+
+<br>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.4. Disponibilidad
 
-![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Disponibilidad.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Escenario disponibilidad 1**
+
+|  |  |
+|-----------|-----------|
+|   **Escenario**        |El sistema debe contar con una función de recordatorios automatizados, que permita a los usuarios programar y recibir notificaciones en la aplicación sobre los cuidados que requieren sus mascotas. Estos recordatorios deben tener en cuenta la mascota a la que corresponde el cuidado y los tiempos recomendados para llevarlo a cabo de nuevo, según la información registrada previamente. De esta manera, los usuarios podrán estar al tanto de las necesidades específicas de cada mascota y asegurarse de proporcionarles los cuidados adecuados en el momento adecuado.       |
+|   **Atributo**        |   Disponibilidad       |
+|     **Característica**      |  El sistema debe enviar recordatorios a los usuarios de los cuidados que se hayan registrado, teniendo en cuenta la mascota a la cual va ligado el cuidado y también los tiempos que se consideran pertinentes para realizar el cuidado de nuevo					        |
+
+
+|  **Fuente Estímulo**   | **Estímulo**     | **Ambiente**     | **Artefacto**     | **Respuesta**     | **Medida Respuesta**    |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Tiempo      |  Enviar una notificación correspondiente a un cuidado    |   Normal        |   Modulo de notificaciones    |   El sistema debe mostrar en pantalla un recordatorio con el cuidado que es pertinente practicar a la mascota respecto al tiempo que ha pasado desde la última vez que se ha realizado este cuidado |   En la pantalla del usuario se debe mostrar una notificación de un cuidado que se haya registrado con antelación y la app identifique como necesario    |
+
+<br>
+
+<br>
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.5. Escalabilidad
 
-![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Escalabilidad.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Escenario escalabilidad 1**
+
+|  |  |
+|-----------|-----------|
+|   **Escenario**        |El sistema debe contar con una arquitectura escalable y una base de datos optimizada para soportar un crecimiento exponencial en el número de usuarios y mascotas registradas. Esto permitirá que la aplicación pueda manejar eficientemente un gran volumen de datos y proporcionar una experiencia de usuario fluida y sin interrupciones, incluso cuando se agreguen nuevos usuarios y mascotas. Además, el sistema debe contar con un monitoreo constante del rendimiento y la capacidad, a fin de detectar y resolver de manera proactiva cualquier problema que pueda surgir con el crecimiento de la base de datos y asegurar que la aplicación funcione sin problemas para todos los usuarios. |
+|   **Atributo**        |  Escalabilidad      |
+|     **Característica**      |  El sistema debe tener un crecimiento respecto a la cantidad de usuarios y mascotas que se hayan registrado en cuestión de base de datos			        |
+
+
+|  **Fuente Estímulo**   | **Estímulo**     | **Ambiente**     | **Artefacto**     | **Respuesta**     | **Medida Respuesta**    |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Administrador del sistema      |  Crecer en capacidad para albergar más información  |   Normal        |  Modulo de bases de datos   | Conforme vayan creciendo la cantidad de usuarios dentro de la plataforma el sistema debe asignar más capacidad de almacenamiento, debe ser una relación directamenete proporcional para poder llevar un control acertado del mismo y hacer un manejo de los costos adecuados |   Cuando se ingrese un nuevo usuario, una nueva mascota, un nuevo cuidado o cualquier elemento que necesite un crecimiento de base de datos debe ser registrado correctamenete y luego debe poder ser verificado una vez el usuario ingrese dentro del sistema de información, pudiendo ver los nuevos ingresos de información    |
+
+<br>
+
+<br>
+
 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.6. Flexibilidad
 
-![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Flexibilidad.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Escenario flexibilidad 1**
+
+|  |  |
+|-----------|-----------|
+|   **Escenario**        |La aplicación debe permitir al usuario elegir con cuántos días de anticipación quiere recibir un recordatorio especial antes de una fecha importante, como un cumpleaños o un evento de vacunación para su mascota. El usuario debe poder seleccionar entre diferentes opciones de anticipación, como 1, 3 o 5 días antes de la fecha en cuestión. Esto permitirá que el usuario tenga un tiempo adecuado para prepararse y tomar las medidas necesarias antes de la fecha, lo que a su vez mejorará la experiencia del usuario y aumentará la satisfacción con la aplicación. Además, la aplicación debe enviar recordatorios precisos y oportunos, para asegurar que el usuario no se pierda ninguna fecha importante relacionada con su mascota. |
+|   **Atributo**        |  Flexibilidad      |
+|     **Característica**      |  Permiteme escoger los días de antelación en la que quiere recibir un recordatorio especial antes de que ocurra una fecha, estos días los podré escoger entre 1, 3 y 5 días antes 			        |
+
+
+|  **Fuente Estímulo**   | **Estímulo**     | **Ambiente**     | **Artefacto**     | **Respuesta**     | **Medida Respuesta**    |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Administrador del sistema, dueño      |  Elegir una de las fechas de recordatorio disponibles  |   Normal        |  Modulo cuidados basicos | El sistema debe mostrar que se configuro correctamente la fecha de recordatorio |   Al cumplir los tiempos establecidos debe generar en recordatorio.   |
+
+<br>
+
+<br>
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.7. Internacionalización
 
-![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Internacionalizacion.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Escenario internacionalización 1**
 
+|  |  |
+|-----------|-----------|
+|   **Escenario**        |La aplicación debe proporcionar información útil y relevante al usuario basada en la raza de su mascota. Para lograr esto, la aplicación debe contar con una base de datos actualizada de razas de mascotas y sus características específicas, incluyendo su dieta, su nivel de actividad física recomendado, sus necesidades de atención médica, entre otras. Al ingresar la raza de su mascota en la aplicación, el usuario recibirá recomendaciones personalizadas y consejos útiles, como información sobre nutrición y cuidado específicos para su raza, ejercicios y actividades recomendados para mantener a su mascota saludable y feliz, y también recomendaciones de productos y servicios relacionados con su mascota. Esto proporcionará una experiencia de usuario personalizada y mejorará la satisfacción y fidelidad del usuario.|
+|   **Atributo**        |  Internacionalización      |
+|     **Característica**      |  La aplicación debe mostrarle información de interés al usuario dependiendo de La raza de La mascota que se haya ingresado        |
+
+
+|  **Fuente Estímulo**   | **Estímulo**     | **Ambiente**     | **Artefacto**     | **Respuesta**     | **Medida Respuesta**    |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Administrador del sistema, dueño      | Mostrar información de interes al usuario respecto a la raza |   Normal        |  Modulo de mascotas | El sistema le muestra correctamente la infomacion de la mascota segun su raza |   Información sobre raza subministrada correctamente, información veridica   |
+
+<br>
+
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.3.8. Usabilidad
 
-![imagen Escenarios de calidad](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Escenarios/E1Usabilidad.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Escenario usabilidad 1**
+
+|  |  |
+|-----------|-----------|
+|   **Escenario**        |El sistema debe ofrecer una funcionalidad para que los usuarios puedan registrar de manera sencilla y rápida a sus mascotas en la aplicación, proporcionando información relevante como el nombre, la especie, la raza, la edad, el género, el historial médico, entre otros datos importantes. Esto permitirá a los usuarios llevar un control más detallado sobre la salud y el bienestar de sus mascotas, y les proporcionará una herramienta práctica y útil para el cuidado de sus animales de compañía.|
+|   **Atributo**        |  Usabilidad      |
+|     **Característica**      |  El sistema debe permitir a los usuarios registrar sus mascotas		  |
 
 
+|  **Fuente Estímulo**   | **Estímulo**     | **Ambiente**     | **Artefacto**     | **Respuesta**     | **Medida Respuesta**    |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Dueño      | Registrar una mascota |   Normal        |  Modulo de mascotas | El sistema debe mostrar en la pantalla que se ha agregado la mascota correctamente |   Cuando el usuario ingresa dentro del apartado de mascotas se debe mostrar la mascota que se ha agregado recientemente sin importar la cantidad de mascotas que se hayan registrado   |
+
+<br>
+
+<br>
 
 
 

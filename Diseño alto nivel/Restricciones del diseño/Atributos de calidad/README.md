@@ -417,9 +417,19 @@ Estrategia:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Disponibilidad**
 
-Táctica:
+Táctica: Garantizar que la aplicación esté disponible y funcione de manera confiable para los usuarios en todo momento.
 
-Estrategia: 
+Para cumplir con la táctica se planea implementar las siguientes medidas:
+
+Estrategias: 
+
+- Arquitectura escalable: Diseñar una arquitectura de aplicación que pueda escalar automáticamente para manejar aumentos en la carga de usuarios. Esto implica utilizar servicios en la nube que puedan ajustar dinámicamente los recursos de acuerdo con la demanda.
+
+- Distribución geográfica: Desplegar la aplicación en múltiples regiones geográficas para garantizar la disponibilidad global. Esto implica utilizar servicios en la nube que permitan replicar la aplicación en diferentes ubicaciones y redirigir el tráfico de manera inteligente.
+
+- Monitoreo y alertas: Implementar un sistema de monitoreo que supervise constantemente el estado de la aplicación y genere alertas en caso de cualquier problema o fallo. Esto permite detectar y resolver rápidamente cualquier interrupción en la disponibilidad de la aplicación.
+
+- Respaldo de datos: Establecer mecanismos de respaldo periódico de los datos de la aplicación para garantizar su disponibilidad en caso de fallos o pérdidas. Esto puede implicar la utilización de servicios de almacenamiento en la nube con replicación de datos y sistemas de copias de seguridad automatizadas.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Flexibilidad**
 
@@ -429,9 +439,18 @@ Estrategia:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Accesibilidad**
 
-Táctica:
+Táctica: Garantizar que la aplicación sea accesible para usuarios con discapacidades y cumpla con los estándares de accesibilidad.
 
-Estrategia: 
+Estrategias: 
+
+Para cumplir con la táctica se planea implementar las siguientes medidas:
+
+- Diseño responsivo: La interfaz de usuario debe adaptarse correctamente a las diferentes resoluciones de pantalla de los usuarios, de maneara que el aplicativo tenga presentación adecuada en móviles, tablets y computadoras.
+
+- Cumplimiento de estándares de accesibilidad: Seguir las pautas y estándares de accesibilidad, como las establecidas por el Web Content Accessibility Guidelines (WCAG). Esto implica asegurarse de que los elementos de la interfaz de usuario sean accesibles mediante teclado, proporcionar alternativas de texto para imágenes y utilizar colores y contrastes adecuados.
+
+- Cumplimiento de estándares de accesibilidad: Seguir las pautas y estándares de accesibilidad, como las establecidas por el Web Content Accessibility Guidelines (WCAG). Esto implica asegurarse de que los elementos de la interfaz de usuario sean accesibles mediante teclado, proporcionar alternativas de texto para imágenes y utilizar colores y contrastes adecuados.
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Internacionalización**
 

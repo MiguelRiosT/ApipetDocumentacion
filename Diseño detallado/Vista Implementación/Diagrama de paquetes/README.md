@@ -3,17 +3,14 @@
 
 ## 1.2.3.1. Diagramas de paquetes
 
-1.2.3.1.1 **Diagrama de paquetes para BackEnd:**
-
 **Objetivo/motivación:**
 
-La importancia de tener un diagrama de paquetes tanto de BackEnd como de FrontEnd de un aplicativo es poder tener una representación 
+La importancia de tener un diagrama de paquetes tanto de **BackEnd** como de **FrontEnd** de un aplicativo es poder tener una representación 
 visual de la estructura de carpetas y cómo es la estructura organizativa del código fuente y las dependencias entre los paquetes o módulos.
 
 Aparte de facilitar la comunicación y colaboración, gestionar las dependencias, mejorar la escalabilidad y reutilización del código, y servir como documentación del sistema para todas las personas que se integren al equipo de desarrollo en un futuro.
 
-
-<br>
+1.2.3.1.1 **Diagrama de paquetes para BackEnd:**
 
 ![BackEnd](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20Implementaci%C3%B3n/Diagrama%20de%20paquetes/DiagramaDePaquetesBackEnd.drawio.png)
 
@@ -21,9 +18,24 @@ Aparte de facilitar la comunicación y colaboración, gestionar las dependencias
 
 1.2.3.1.2 **Documentación elementos que lo conforman**
 
+- **apipet**:
+
+  - repository
+
+  - dto
+
+  - entity
+
+  - service
+
+  - api
+
+  - crosscutting
+
+
+
 
 <br>
-
 <br>
 
 1.2.3.1.3 **Diagrama de paquetes para FrontEnd:**

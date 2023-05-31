@@ -4,11 +4,22 @@
 ## 1.1.3.2. Arquitectura referencia
 
 
-1.1.3.2.1. Diagrama arquitectura referencia
+1.1.3.2.1. Diagrama 
+
+**Nombre diagrama**: Diagrama Arquitectura referencia
 
 ![Diagrama arquitectura referencia](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Alternativa%20de%20soluci%C3%B3n/Arquitectura%20referencia/ArquitecturaReferencia.png)
 
-1.1.3.2.2. Explicación diagrama de aquitectura referencia
+
+**Objetivo/motivación:**
+Un diagrama de arquitectura de referencia es una representación visual de la estructura y los componentes clave de una arquitectura de software o sistema. Este tipo de diagrama es importante porque proporciona una guía y una base sólida para el diseño y la implementación de soluciones en un dominio específico.
+
+En este, partimos del arquetipo de referencia y ya empezamos a moldear y ser más específicos sobre que componentes vamos a usar.
+
+
+<br>
+
+1.1.3.2.2. **Documentación elementos que lo conforman**
 
 - FrontEnd: Se encarga de mostrar la interfaz al usuario y enviar y recibir datos al BackEnd. **Angular** es un framework de desarrollo web que permite crear interfaces de usuario dinámicas y robustas.
 

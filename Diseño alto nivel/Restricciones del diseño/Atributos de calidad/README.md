@@ -23,6 +23,11 @@ Los atributos de calidad empleados fueron:
 - Capacidad para ser administrado
 - Capacidad
 
+Los atributos prioritarios para los **dueños** son: Seguridad, escalabilidad, disponibiliodad, interoperabilidad y usabilidad.
+
+Los atributos prioritarios para el **administrador del sistema** son: Escalabilidad, interoperabilidad y capacidad para ser administrado.
+
+
 <br>
 
 &nbsp;&nbsp;1.1.2.1.1. Mapa de empatía

@@ -20,17 +20,30 @@ Aparte de facilitar la comunicación y colaboración, gestionar las dependencias
 
 - **apipet**:
 
-  - repository
+  - repository:
 
-  - dto
+    Este paquete generalmente contiene las clases encargadas de la interacción con la capa de persistencia de datos, como las consultas a la base de datos. Aquí se suelen encontrar interfaces y clases de implementación de repositorios.
 
-  - entity
+  - dto:
 
-  - service
+    El paquete DTO contiene las clases que se utilizan para transferir datos entre las diferentes capas del sistema. Estas clases suelen ser simples y contener solo los datos necesarios para su transferencia, sin lógica adicional.
 
-  - api
+  - entity:
 
-  - crosscutting
+    Contiene las clases que representan las entidades del dominio en el sistema. Estas clases suelen mapearse a tablas en una base de datos relacional y contienen tanto los datos como la lógica asociada a esas entidades.
+
+
+  - service:
+
+    Alberga las clases que implementan la lógica de negocio del sistema. Aquí se encuentran los servicios que se encargan de realizar operaciones y manipular datos utilizando las entidades y repositorios correspondientes. Estas clases suelen orquestar las diferentes operaciones y coordinar la interacción entre los diferentes componentes.
+
+  - api: 
+
+    Contiene las clases y controladores que exponen las API o endpoints para que los clientes externos o internos puedan interactuar con el sistema. Aquí se definen las rutas, métodos y parámetros que se utilizarán para acceder a los recursos y realizar operaciones en el sistema.
+
+  - crosscutting: 
+  
+    Es un paquete encargado de tener funcionalidades y utilidades.
 
 
 

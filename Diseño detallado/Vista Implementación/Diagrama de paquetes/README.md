@@ -20,7 +20,7 @@
 
 <br>
 
-1.2.3.1.3 **Diagrama de paqueteas para FrontEnd:**
+1.2.3.1.3 **Diagrama de paquetes para FrontEnd:**
 
 ![FrontEnd]()
 

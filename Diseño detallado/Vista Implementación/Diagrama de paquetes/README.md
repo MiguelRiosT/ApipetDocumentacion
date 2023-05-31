@@ -46,29 +46,43 @@
 
       **app --> guards, modules, service, pipes, models, components y dircetives**
 
-      - Guards: Se utiliza para almacenar los "guards" en Angular. 
+      - Guards: 
+      
+        Se utiliza para almacenar los "guards" en Angular. 
 
         Los "guards" son clases que implementan una interfaz específica y se utilizan para proteger las rutas de la aplicación.  
 
         Controlan el acceso a las rutas  y permiten o deniegan el acceso basándose en ciertas condiciones, como la autenticación del usuario o permisos específicos.
 
-      - Modules: En esta se organizan los modulos de la aplicación
+      - Modules: 
+      
+        En esta se organizan los modulos de la aplicación
 
         Los módulos en Angular son bloques de construcción que agrupan componentes, servicios, directivas y otros artefactos relacionados. Cada módulo tiene su propio contexto y funcionalidad específica. Los módulos ayudan a modularizar y organizar el código de la aplicación, permitiendo una mejor reutilización y mantenimiento.
 
-      - Services: Los servicios en Angular son clases que se utilizan para encapsular la lógica y las funcionalidades compartidas entre los componentes. Los servicios proporcionan métodos y funcionalidades que pueden ser utilizados por varios componentes, lo que ayuda a mantener un código más limpio y modular.
+      - Services: 
+      
+        Los servicios en Angular son clases que se utilizan para encapsular la lógica y las funcionalidades compartidas entre los componentes. Los servicios proporcionan métodos y funcionalidades que pueden ser utilizados por varios componentes, lo que ayuda a mantener un código más limpio y modular.
        
-      - Pipes: Los pipes son transformaciones que se aplican a los datos en las plantillas HTML para formatear, filtrar o modificar su presentación. Los pipes son funciones que aceptan un valor de entrada y devuelven un valor transformado que se muestra en la interfaz de usuario.
+      - Pipes: 
+      
+        Los pipes son transformaciones que se aplican a los datos en las plantillas HTML para formatear, filtrar o modificar su presentación. Los pipes son funciones que aceptan un valor de entrada y devuelven un valor transformado que se muestra en la interfaz de usuario.
 
-      - Models: Los modelos se utilizan para definir la estructura de los objetos de datos y proporcionar una tipificación fuerte en el desarrollo de Angular.
+      - Models: 
+      
+        Los modelos se utilizan para definir la estructura de los objetos de datos y proporcionar una tipificación fuerte en el desarrollo de Angular.
 
-      - Components: Los componentes son la unidad básica de construcción de la interfaz de usuario en Angular. 
+      - Components: 
+      
+        Los componentes son la unidad básica de construcción de la interfaz de usuario en Angular. 
 
         Representan diferentes partes de la aplicación y encapsulan la lógica y la presentación relacionadas con esa parte específica. 
       
         Los componentes se componen de plantillas HTML, estilos CSS y archivos TypeScript.
 
-      - Directives: Las directivas son atributos, elementos o clases que se utilizan para modificar el comportamiento o la apariencia de los elementos en el DOM. Las directivas personalizadas se crean para agregar funcionalidades específicas a los elementos de la interfaz de usuario y se pueden reutilizar en diferentes partes de la aplicación.
+      - Directives: 
+      
+        Las directivas son atributos, elementos o clases que se utilizan para modificar el comportamiento o la apariencia de los elementos en el DOM. Las directivas personalizadas se crean para agregar funcionalidades específicas a los elementos de la interfaz de usuario y se pueden reutilizar en diferentes partes de la aplicación.
 
 
 

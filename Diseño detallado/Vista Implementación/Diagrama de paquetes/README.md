@@ -3,9 +3,28 @@
 
 ## 1.2.3.1. Diagrama de paquetes
 
-1.2.3.1.1 **Diagrama**
+1.2.3.1.1 **Diagrama de paquetes para BackEnd:**
 
-![](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20Implementaci%C3%B3n/Diagrama%20de%20paquetes/ModeloDePaquetes.drawio.png)
+**Objetivo/motivación:**
 
-1.2.3.1.2 **Explicación**
+<br>
+
+![BackEnd](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20Implementaci%C3%B3n/Diagrama%20de%20paquetes/DiagramaDePaquetesBackEnd.drawio.png)
+
+<br>
+
+1.2.3.1.2 **Documentación elementos que lo conforman**
+
+
+<br>
+
+<br>
+
+1.2.3.1.3 **Diagrama de paqueteas para FrontEnd:**
+
+![FrontEnd]()
+
+<br>
+
+1.2.3.1.4 **Documentación elementos que lo conforman**
 

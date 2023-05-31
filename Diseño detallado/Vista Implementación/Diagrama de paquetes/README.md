@@ -30,3 +30,15 @@
 
 **src:** Esta es la carpeta raíz del proyecto y contiene todos los archivos y carpetas relacionadas al aplicativo.
 
+**assets:** Se utiliza para almacenar recursos estáticos de la aplicación. Puede tener imágenes, archivos de estilo css, archivos de datos, fuentes, videos, dichos archivos estáticos se utilizarán en la interfaz de usuario. 
+
+**environments:** Se utiliza para almacenar los archivos de configuración de entorno de la aplicación.Estos archivos contienen variables y configuraciones específicas para diferentes entornos, como desarrollo, producción, pruebas.
+
+**app:** Esta carpeta contiene los archivos principales de la aplicación apipet.
+
+
+
+
+
+
+

@@ -40,16 +40,16 @@
 
 **assets:** Se utiliza para almacenar recursos estáticos de la aplicación. Puede tener imágenes, archivos de estilo css, archivos de datos, fuentes, videos, dichos archivos estáticos se utilizarán en la interfaz de usuario. 
 
-**Dentro de app encontramos las carpetas de fotns, images y styles aunque pueden crearse más acorde al progreso**
+**Dentro de assets encontramos las carpetas de fotns, images y styles aunque pueden crearse más acorde al progreso**
 
 <br>
 <br>
 
 **app:** Esta carpeta contiene los archivos principales de la aplicación apipet.
 
-<br>
-
 **Dentro de app encontramos las carpetas de guards, modules, service, pipes, models, components y dircetives**
+
+- modules: 
 
 
 

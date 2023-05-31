@@ -5,9 +5,20 @@
 
 1.2.3.1.1 **Diagrama**
 
+**Objetivo/motivación:**
+
+Su importancia y objetivo radican en brindar una visión clara de la arquitectura del sistema y ayudar a los desarrolladores y arquitectos a comprender cómo se estructuran los componentes y cómo interactúan entre sí.
+
+
+
+
 ![](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20Implementaci%C3%B3n/Diagrama%20de%20componentes/ModeloComponentesApipet.drawio.png)
 
-1.2.3.1.2 **Explicación**
+<br>
+
+1.2.3.1.2 **Documentación elementos que lo conforman**
+
+<br>
 
 ### Significado de color de los componentes: ###
 

@@ -21,7 +21,7 @@ ventajas de emplear este modelo:
 
 
 
-![Modelo Anemico](https://github.com/MiguelRiosT/S2Apipet/blob/main/Documentaci%C3%B3n/Modelo%20anemico/ModeloAnemico.png)
+![Modelo Anemico](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20funcional/Modelo%20anemico/ModeloAnemico.drawio.png)
 
 <br>
 

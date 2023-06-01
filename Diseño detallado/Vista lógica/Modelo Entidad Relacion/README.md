@@ -12,3 +12,11 @@
 
 **Objetivo/motivación:**
 
+El objetivo principal de un modelo entidad-relación es capturar y definir la estructura de los datos y las relaciones en un dominio específico, de manera que se puedan diseñar y construir bases de datos eficientes y coherentes.
+
+Ventajas:
+
+- Representación clara y estructurada de las entidades y las relaciones en un sistema.
+
+- Mejor comunicación entre el equipo de desarrollo.
+

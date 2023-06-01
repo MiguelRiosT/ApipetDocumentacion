@@ -7,23 +7,28 @@
 
 &nbsp;&nbsp;1.1.2.1. Atributos de calidad
 
-Los atributos de calidad empleados fueron:
-
-- Seguridad
-- Escalabilidad
-- Rendimiento
-- Disponibilidad
-- Flexibilidad
-- Accesibilidad
-- Internacionalización
-- Interoperabilidad
-- Usabilidad
-- Capacidad para ser administrado
-- Capacidad
-
 Los atributos con mayor grado de importancia ordenados de mayor a menor para los **dueños** son: Seguridad, escalabilidad, disponibiliodad, interoperabilidad y usabilidad.
 
+|  Atributos de calidad |
+|-------------------|
+|          Seguridad         |
+|          escalabilidad         |
+|          disponibiliodad         |
+|          interoperabilidad         |
+|          usabilidad         |
+
+<br>
+
 Los atributos con mayor grado de importancia ordenados de mayor a menor para el **administrador del sistema** son: Escalabilidad, interoperabilidad y capacidad para ser administrado.
+
+
+|  Atributos de calidad |
+|-------------------|
+|          Escalabilidad         |
+|          Interoperabilidad         |
+|          Capacidad para ser administrado        |
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.2 Priorización
 
@@ -51,8 +56,9 @@ El mapa de empatía nos ayuda a comprender desde los atributos de calidad selecc
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Votación**
 
+
+**Votación**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Priorizaci%C3%B3n/votacion.png)
 

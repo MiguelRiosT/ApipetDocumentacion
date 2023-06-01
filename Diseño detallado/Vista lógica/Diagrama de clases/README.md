@@ -6,7 +6,7 @@
 
 **Diagrama de clases:**
 
-![Diagrama de clases]()
+![Diagrama de clases](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20l%C3%B3gica/Diagrama%20de%20clases/Diagrama%20de%20clases.drawio.png)
 
 <br>
 

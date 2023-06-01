@@ -88,5 +88,34 @@ Representa una solicitud enviada desde el facade al repository para deshacer los
 
 **Documentación elementos que lo conforman**
 
+1. getData(json):
 
+    En esta interacción, el FrontEnd envía una solicitud al Controller para obtener datos mediante el envío de un objeto JSON como parámetro.
 
+2. getData(dto):
+
+    Representa una llamada que se realiza desde el Controller al Facade, con el propósito de obtener datos utilizando un objeto DTO (Data Transfer Object) como parámetro.
+
+3. getData(domain):
+
+    Representa una llamada que se realiza desde el Facade al Service con el objetivo de obtener datos utilizando un objeto de dominio (domain) como parámetro.
+
+4. getData(entity):
+
+    Llamada que se realiza desde el Service hacia el Repository con el objetivo de obtener datos utilizando un objeto de entidad (entity) como parámetro.
+    
+5. return List< entity > :
+
+    Devolución de una lista de objetos de entidad (entity) desde el Repository al Service.
+
+6. return List< domain > :
+
+    Devolución de una lista de objetos de dominio desde el Service al Facade.
+
+7. return List< dto > :
+
+    Representa la devolución de una lista de objetos DTO (Data Transfer Object) desde el Facade al Controller.
+
+8. return List< json > :
+
+    Representa la devolución de una lista de objetos JSON desde el Controller al FrontEnd. En esta interacción, el Controller ha procesado la lógica de control y ha obtenido una lista de objetos JSON como resultado.

@@ -1,11 +1,9 @@
 
 ## 1.2.1.3. Diagrama de actividades 
 
-![Registro de dueño]()
-
 **Nombre:** Diagrama de actividades - Registro de dueño
 
-![Diagrama de estado - Reporte salud mascota](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20funcional/Diagrama%20de%20Actividades/Diagrama%20de%20actividades%20-%20Registrar%20due%C3%B1o.drawio.png)
+![Registro de dueño](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20funcional/Diagrama%20de%20Actividades/Diagrama%20de%20actividades%20-%20Registrar%20due%C3%B1o.drawio.png)
 
 **Objetivo/motivación:**
 

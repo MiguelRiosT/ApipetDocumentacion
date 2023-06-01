@@ -7,7 +7,7 @@
 
 **Objetivo/motivación:**
 
-Un diagrama de estados es una herramienta importante en el desarrollo de software y en el diseño de sistemas que involucran estados y transiciones. 
+Es una herramienta valiosa para comprender, diseñar y comunicar el comportamiento de un sistema. Ayuda a visualizar el flujo de control, identificar los estados y transiciones, capturar requisitos y reglas de negocio, detectar problemas y errores, y facilitar la comunicación efectiva entre los miembros del equipo. 
 
 Los principales beneficios y ventajas de tener este diagrama son:
 

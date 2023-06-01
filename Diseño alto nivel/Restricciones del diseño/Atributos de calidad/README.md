@@ -3,8 +3,6 @@
 
 ## 1.1.2.1. Atributos de calidad
 
-Para muchos de los items aquí presentes se tomó de base el siguiente documento: [MiniQAW](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/documentos/Mini-QAW.xlsx)
-
 <br>
 
 &nbsp;&nbsp;1.1.2.1. Atributos de calidad
@@ -23,9 +21,19 @@ Los atributos de calidad empleados fueron:
 - Capacidad para ser administrado
 - Capacidad
 
-Los atributos prioritarios para los **dueños** son: Seguridad, escalabilidad, disponibiliodad, interoperabilidad y usabilidad.
+Los atributos con mayor grado de importancia ordenados de mayor a menor para los **dueños** son: Seguridad, escalabilidad, disponibiliodad, interoperabilidad y usabilidad.
 
-Los atributos prioritarios para el **administrador del sistema** son: Escalabilidad, interoperabilidad y capacidad para ser administrado.
+Los atributos con mayor grado de importancia ordenados de mayor a menor para el **administrador del sistema** son: Escalabilidad, interoperabilidad y capacidad para ser administrado.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.2 Priorización
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Priorización**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Priorizaci%C3%B3n/Priorizacion.png)
+
+
 
 
 <br>
@@ -34,15 +42,20 @@ Los atributos prioritarios para el **administrador del sistema** son: Escalabili
 
 **Importancia**
 
-El mapa de empatía nos ayuda a comprender desde loas atributos de calidad seleccionados, la importancia que cada actor le brinda a cada uno de ellos, esto con el fin de plasmar en el aplicativo aquellos aspectos que deben tener más prioridad.
+El mapa de empatía nos ayuda a comprender desde los atributos de calidad seleccionados, la importancia que cada actor le brinda a cada uno de ellos, esto con el fin de plasmar en el aplicativo aquellos aspectos por los cuales se debe dar mayor énfasis en su desarrollo.
+
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Mapa%20Empatia/MapaEmpatia.png)
 
-Como podemos observar en el mapa de empatía los actores tienen diferentes preferencias hacia los atributos de calidad.
+<br>
 
-En el caso de los ***dueños*** se observa que se van más por atributos de calidad como lo son: Seguridad, Disponibilidad, interoperabilidad y usabilidad.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Votación**
 
-En el caso de los ***Administradores de sistema*** se van por atributos más técnicos como lo son: Escalabilidad, Capacidad para ser administrados y interoperabilidad.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Priorizaci%C3%B3n/votacion.png)
+
 
 <br>
 
@@ -53,7 +66,7 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 <br>
 
-| Característica de seguridad |
+| Características |
 |------------|
 | El sistema debe enviar un correo electrónico al registrar un usuario donde autentifique su identidad     |
 | El sistema debe autenticar el usuario para brimdarle acceso a las personas que quieran usar Apipet, para de esta manera llevar el control de los ingresosy el manejo de la aplicación.    |
@@ -65,7 +78,7 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 <br>
 
-| Característica de escalabilidad |
+| Característica |
 |------------|
 | El sistema debe tener un crecimiento respecto a la cantidad de usuarios y mascotas que se hayan registrado en cuestión de base de datos    |
 
@@ -76,7 +89,7 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 <br>
 
-| Característica de disponibilidad |
+| Característica |
 |------------|
 | El sistema debe enviar recordatorios a los usuarios de los cuidados que se hayan registrado, teniendo en cuenta la mascota a la cual va ligado el cuidado y también los tiempos que se considera pertinentes para realizar el cuidado de nuevo   |
 
@@ -86,7 +99,7 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 <br>
 
-| Característica de flexibilidad |
+| Características |
 |------------|
 | Permiteme escoger los días de antelación en la que quiere recibir un recordatorio especial antes de que ocurra una fecha, estos días los podré escoger entre 1,3 y 4 días antes |
 | El sistema debe permitir registrar un cuidado para las mascotas que ya se encuentren registradas dentro de la aplicación |
@@ -99,7 +112,7 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 <br>
 
-| Característica de accesibilidad |
+| Características |
 |------------|
 | El sistema debe permitir a los usuarios registrarse por medio de una cuenta de terceros como lo es google, facebook o twitter |
 |El sistema debe mostrar las ubicaciones de los lugares de interés dentro del mapa |
@@ -113,7 +126,7 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 <br>
 
-| Característica de internacionalización |
+| Característica |
 |------------|
 | El aplicativo debe mostrarle información de interés al usuario dependiendo de la raza de la mascota que se haya ingresado |
 
@@ -125,7 +138,7 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 <br>
 
-| Característica de usabilidad |
+| Características |
 |------------|
 | La aplicación debe mostrarme de forma bonita la edad de mi mascota |
 | La aplicación debe decirme si mi mascota esta obesa o desnutrida según el peso, altura y su raza |
@@ -160,27 +173,11 @@ En el caso de los ***Administradores de sistema*** se van por atributos más té
 
 <br>
 
-| Característica de capacidad para ser administrado |
+| Características |
 |------------|
 | El sistema debe permitir resgistrar los lugares de interés como centros de adopción, centros comerciales y veterinarias para que luego los usuarios puedan encontrarlos y tenerlos en cuenta al momento de una visita |
 
 <br>
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1.2.2 Priorización
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Priorización**
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Priorizaci%C3%B3n/Priorizacion.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Votación**
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Restricciones%20del%20dise%C3%B1o/Atributos%20de%20calidad/imagenes/Priorizaci%C3%B3n/votacion.png)
-
 
 <br>
 

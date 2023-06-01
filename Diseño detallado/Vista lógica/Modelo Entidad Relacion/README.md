@@ -6,7 +6,7 @@
 
 **Modelo entidad relacion:**
 
-![MER]()
+![MER](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20l%C3%B3gica/Modelo%20Entidad%20Relacion/MER.png)
 
 <br>
 

@@ -49,6 +49,47 @@ Ventajas:
 **Documentación elementos que lo conforman**
 
 
+1. doAction(json):
+
+    Una solicitud enviada por el FrontEnd al controller con el fin de realizar una acción en específico empleando los datos proporcionados en formato JSON.
+
+2. doAction(dto): 
+
+     Representa una solicitud enviada por el controller al facade para llevar a cabo una acción específica utilizando un objeto de transferencia de datos.
+
+3. doAction(domain):
+
+    Representa una solicitud enviada por el facade al service para llevar a cabo una acción específica utilizando un objeto del dominio (domain) como parámetro.
+
+4. validateRule(domain):
+
+     Se encarga de realizar la validación de una regla específica aplicada al objeto del dominio proporcionado
+
+5. requestData(entity):
+    
+    Representa una solicitud enviada desde el service al repository para obtener datos relacionados con una entidad específica.
+
+6. setData(entity):
+
+    Representa una solicitud enviada desde el service al repository para guardar o actualizar los datos de una entidad específica.
+
+7.1 commit():
+
+Representa una solicitud enviada desde el facade al repository para confirmar y persistir los cambios realizados en las operaciones anteriores.
+
+7.2 rollback():
+
+Representa una solicitud enviada desde el facade al repository para deshacer los cambios realizados en las operaciones anteriores y restaurar el estado anterior.
+
+**loop (bucle):**
+
+ Secuencia repetitiva de interacciones entre objetos.
+
+**alt (alternativa):**
+
+Comportamiento condicional en el flujo de ejecución.
+
+
 
 <br>
 <br>

@@ -27,9 +27,9 @@
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.3. [Diagrama de actividades](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Diagrama%20de%20Actividades)
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.3. [Diagrama de actividades](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Vista%20funcional/Diagrama%20de%20Actividades)
 
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.4. [Diagrama de estado](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Diagrama%20de%20Estados)
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.4. [Diagrama de estado](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Vista%20funcional/Diagrama%20de%20Estados)
 
 <br>
 

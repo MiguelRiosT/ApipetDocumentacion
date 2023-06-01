@@ -1,11 +1,35 @@
 
 ## 1.2.1.4 Diagrama de estado
 
-imagen
+**Nombre:** Diagrama de estado - Reporte salud mascota
 
-1.2.1.4.1 < Modelado estado Objeto/transaccion/ operacion 1 >
+![Diagrama de estado - Reporte salud mascota](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20funcional/Diagrama%20de%20Estados/Diagrama%20de%20estados%20-%20Reporte%20salud%20mascota.drawio.png)
 
-1.2.1.4.N < Modelado estado Objeto/transaccion/ operacion N >
+**Objetivo/motivación:**
+
+Un diagrama de estados es una herramienta importante en el desarrollo de software y en el diseño de sistemas que involucran estados y transiciones. 
+
+Los principales beneficios y ventajas de tener este diagrama son:
+
+- Mejora la comprensión de un objeto o sistema y permite entender cómo éste se comporta.
+
+- Descubrir falencias o aspectos que no se tomaron en cuenta en un inicio.
+
+- Identificación de estados y transiciones.
+
+- Detección de problemas o errores que se puedan presentar.
+
+**Documentación elementos que lo conforman**
 
 
+
+
+
+1.2.1.4.1. < Modelado estado Objeto/transaccion/ operacion 1 >
+
+1.2.1.4.2.
+
+1.2.1.4.3.
+
+1.2.1.4.N 
 

@@ -3,6 +3,12 @@
 
 ## 1.2.2.3. Modelo de datos
 
-En progreso...
 
+**Modelo entidad relacion:**
+
+![MER]()
+
+<br>
+
+**Objetivo/motivación:**
 

@@ -20,3 +20,7 @@
 
 
 **Documentación elementos que lo conforman**
+
+
+
+//////////////POR QUE USAMOS COLABORACION Y SECUENCIA? POR APRENDIZAJE

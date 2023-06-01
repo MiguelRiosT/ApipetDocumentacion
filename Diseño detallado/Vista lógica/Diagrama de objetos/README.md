@@ -3,6 +3,12 @@
 
 ## 1.2.2.2. Diagrama de objetos
 
-En progreso...
+**Nombre:** Añadir mascota
+
+![Diagrama de objetos - añadir mascota]()
+
+**Objetivo/motivación:**
+
+**Documentación elementos que lo conforman:**
 
 

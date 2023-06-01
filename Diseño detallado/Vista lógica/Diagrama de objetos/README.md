@@ -7,9 +7,12 @@
 
 ![Diagrama de objetos - añadir mascota](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20l%C3%B3gica/Diagrama%20de%20objetos/Diagrama%20de%20objetos%20-%20a%C3%B1adir%20mascota.drawio.png)
 
+<br>
 **Objetivo/motivación:**
 
 Representar la estructura estática de un sistema o una parte específica de un sistema. 
+
+<br>
 
 **Documentación elementos que lo conforman:**
 

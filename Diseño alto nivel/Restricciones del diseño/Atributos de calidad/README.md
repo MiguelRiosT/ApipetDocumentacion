@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp;1.1.2.1. Atributos de calidad
 
-Los atributos con mayor grado de importancia ordenados de mayor a menor para los **dueños** son: Seguridad, escalabilidad, disponibiliodad, interoperabilidad y usabilidad.
+Los atributos con mayor grado de importancia ordenados de mayor a menor para los **dueños** son:
 
 |  Atributos de calidad |
 |-------------------|
@@ -19,8 +19,7 @@ Los atributos con mayor grado de importancia ordenados de mayor a menor para los
 
 <br>
 
-Los atributos con mayor grado de importancia ordenados de mayor a menor para el **administrador del sistema** son: Escalabilidad, interoperabilidad y capacidad para ser administrado.
-
+Los atributos con mayor grado de importancia ordenados de mayor a menor para el **administrador del sistema** son:
 
 |  Atributos de calidad |
 |-------------------|

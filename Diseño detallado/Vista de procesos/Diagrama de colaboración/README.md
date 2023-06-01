@@ -63,7 +63,20 @@
      Se encarga de realizar la validación de una regla específica aplicada al objeto del dominio proporcionado
 
 5. requestData(entity):
+    
+    Representa una solicitud enviada desde el service al repository para obtener datos relacionados con una entidad específica.
 
+6. setData(entity):
+
+    Representa una solicitud enviada desde el service al repository para guardar o actualizar los datos de una entidad específica.
+
+7.1 commit():
+
+Representa una solicitud enviada desde el facade al repository para confirmar y persistir los cambios realizados en las operaciones anteriores.
+
+7.2 rollback():
+
+Representa una solicitud enviada desde el facade al repository para deshacer los cambios realizados en las operaciones anteriores y restaurar el estado anterior.
 
 <br>
 <br>

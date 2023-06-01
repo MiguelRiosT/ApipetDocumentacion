@@ -68,7 +68,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.2.4.2. [Diagrama de colaboración](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Vista%20de%20procesos/Diagrama%20de%20colaboraci%C3%B3n)
 
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.4.3. [Justificación]()
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.4.3. [Justificación](https://github.com/MiguelRiosT/ApipetDocumentacion/tree/main/Dise%C3%B1o%20detallado/Vista%20de%20procesos/Justificaci%C3%B3n)
 
 </details>
 

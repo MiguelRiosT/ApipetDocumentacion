@@ -11,7 +11,7 @@
 
 **Objetivo/motivación:**
 
-Representar la estructura estática de un sistema o una parte específica de un sistema. 
+Para el proyecto este diagrama ayuda a representar el momento en el tiempo cuando se están añadiendo una mascota y cómo son los datos y cuáles se necesitan en verdad a la hora de añadir la mascota.
 
 <br>
 

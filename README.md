@@ -3,7 +3,7 @@
 ![Logo Apipet](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/logo/LogoApipet.png)
 
 
-## Indice de contenido
+## Índice de contenido
 
 1. Diseño 
 

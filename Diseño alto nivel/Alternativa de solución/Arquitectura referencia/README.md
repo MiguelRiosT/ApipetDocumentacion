@@ -6,32 +6,29 @@
 
 1.1.3.2.1. Diagrama 
 
-**Nombre diagrama**: Diagrama Arquitectura referencia
-
 ![Diagrama arquitectura referencia](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20alto%20nivel/Alternativa%20de%20soluci%C3%B3n/Arquitectura%20referencia/ArquitecturaReferencia.png)
 
 
 **Objetivo/motivación:**
-Un diagrama de arquitectura de referencia es una representación visual de la estructura y los componentes clave de una arquitectura de software o sistema. Este tipo de diagrama es importante porque proporciona una guía y una base sólida para el diseño y la implementación de soluciones en un dominio específico.
 
-En este, partimos del arquetipo de referencia y ya empezamos a moldear y ser más específicos sobre que componentes vamos a usar.
+Para el proyecto es de suma importancia tener este diagrama al ser una base conceptual sólida, con la cuál se puede observar los componentes que se están desarrollando para brindar un resultado aceptado.
+
+Motiva mucho en el aspecto de ver cómo en el proyecto se requieren ciertos componentes para funcionar correctamente y cómo estos se relacionan o dependen unos de otros.
 
 
 <br>
 
 1.1.3.2.2. **Documentación elementos que lo conforman**
 
-- FrontEnd: Se encarga de mostrar la interfaz al usuario y enviar y recibir datos al BackEnd. **Angular** es un framework de desarrollo web que permite crear interfaces de usuario dinámicas y robustas.
+- FrontEnd: Se encarga de mostrar la interfaz al usuario y enviar y recibir datos al BackEnd. 
 
-- BackEnd: Se encarga del procesamiento de los datos y la lógica de negocio. **SpringBoot** es un framework de Java que facilita la creación de aplicaciones web y servicios. 
+- BackEnd: Se encarga del procesamiento de los datos y la lógica de negocio.
 
-- Base de datos: Es donde se almacenan y gestionan los datos del aplicativo de manera estructurada. **PostgreSQL**  Permite almacenar, recuperar, modificar y eliminar datos de forma eficiente.
+- Base de datos: Es donde se almacenan y gestionan los datos del aplicativo de manera estructurada.
 
-- Servicio de notificaciones: Utilizado para enviar notificaciones por correo electrónico o mensajes de texto a los usuarios del aplicativo. **SenGrid** es un servicio de envío de correos electrónico y mensajes de texto en tiempo real.
+- Servicio de notificaciones: Utilizado para enviar notificaciones por correo electrónico o mensajes de texto a los usuarios del aplicativo. 
 
-- Identity provider: Se encarga de gestionar la autenticación y autorización de los usuarios en el aplicativo. Con  **Auth0** se asegura que solo los usuarios autorizados puedan acceder a los recursos y servicios del aplicativo.
-
-POR DEFINIR CUÁL EMPLEAR:
+- Identity provider: Se encarga de gestionar la autenticación y autorización de los usuarios en el aplicativo.
 
 - WAF (Web Application Firewall): Es un componente de seguridad. Su función principal es proteger el aplicativo contra ataques web comunes, como inyecciones SQL, ataques de denegación de servicio (DDoS), cross-site scripting (XSS), entre otros.
 
@@ -43,7 +40,3 @@ POR DEFINIR CUÁL EMPLEAR:
 
 - SPA (Single-Page Application): Aplicativo web en el que la interacción con el usuario ocurre en una sola página, sin recargar la página completa.
 
-
-**Conexión entre componentes de la arquitectura:**
-
-FrontEnd se encarga de mostrar la interfaz al usuario y enviar y recibir datos al BackEnd. El BackEnd procesa las solicitudes del FrontEnd, interactúa con la base de datos para almacenar y recuperar datos, utiliza el servicio de notificaciones para enviar notificaciones a los usuarios y se integra con el proveedor de identidad para gestionar la autenticación y autorización de los usuarios. Todos estos componentes trabajan en conjunto para brindar un aplicativo funcional y seguro.

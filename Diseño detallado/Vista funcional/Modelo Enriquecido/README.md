@@ -3,7 +3,7 @@
 
 **1.2.1.2.2. Modelo enriquecido**
 
-
+![enriquecido](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20funcional/Modelo%20Enriquecido/enriquecido1.png)
 
 **Objetivo/motivación:**
 

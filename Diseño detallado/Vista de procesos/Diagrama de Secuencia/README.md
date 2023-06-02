@@ -8,19 +8,13 @@
 
 El objetivo principal de un diagrama de secuencia es visualizar y describir la secuencia de interacciones entre los objetos y componentes del sistema durante la ejecución de un escenario o una transacción específica.
 
-Ventajas:
+**Nombre:** Transacción de una actualización
 
-- Ánalisis del flujo de ejecución:  
+![Diagrama ](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20de%20procesos/Diagrama%20de%20Secuencia/Secuencia%20de%20una%20transacci%C3%B3n%20de%20actualizaci%C3%B3n.drawio.png)
 
-    Comprendiendo cómo se lleva a cabo una transacción o escenario en particular, identificando las interacciones entre los objetos y el orden en el que ocurren.
 
-- Identificación de problemas
+**Documentación elementos que lo conforman**
 
-- Depuración y pruebas
-
-- Sirve como documentación
-
-**Elementos que comparten ambos diagramas**
 
 - FrontEnd: 
 
@@ -41,15 +35,6 @@ Ventajas:
 - Repository:
 
     Responsable de la persistencia y el acceso a los datos. Proporciona una interfaz para interactuar con la capa de almacenamiento de datos, como una base de datos, ocultando los detalles de implementación y proporcionando métodos para recuperar y almacenar datos.
-
-
-
-**Nombre:** Secuencia de una transacción de actualización
-
-![Diagrama ](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20de%20procesos/Diagrama%20de%20Secuencia/Secuencia%20de%20una%20transacci%C3%B3n%20de%20actualizaci%C3%B3n.drawio.png)
-
-
-**Documentación elementos que lo conforman**
 
 
 1. doAction(json):
@@ -97,12 +82,33 @@ Comportamiento condicional en el flujo de ejecución.
 <br>
 <br>
 
-**Nombre:** Secuencia de una transacción de consulta
+**Nombre:** Transacción de consulta
 
 ![Diagrama ](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20de%20procesos/Diagrama%20de%20Secuencia/Secuencia%20de%20una%20transacci%C3%B3n%20de%20consulta.drawio.png)
 
 
 **Documentación elementos que lo conforman**
+
+
+- FrontEnd: 
+
+    Es responsable de la interfaz de usuario, la interacción con el usuario y la presentación de los datos.
+
+- Controller: 
+
+    Es una parte del patrón de diseño Modelo-Vista-Controlador (MVC). Se encarga de recibir las solicitudes del usuario, procesarlas y coordinar las acciones apropiadas, como invocar los servicios y gestionar los datos necesarios para responder a la solicitud.
+
+- Facade:
+
+     Proporciona una interfaz simplificada para un conjunto de interfaces más complejas o subsistemas. Actúa como una capa intermedia entre los clientes y los componentes internos del sistema, proporcionando una interfaz única y unificada.
+
+- Service:
+
+    Capa lógica o componente que contiene la lógica de negocio de una aplicación. Proporciona servicios y funcionalidades específicas para cumplir con los requisitos del sistema.
+
+- Repository:
+
+    Responsable de la persistencia y el acceso a los datos. Proporciona una interfaz para interactuar con la capa de almacenamiento de datos, como una base de datos, ocultando los detalles de implementación y proporcionando métodos para recuperar y almacenar datos.
 
 
 1. getData(json):

@@ -7,17 +7,7 @@
 
 **Objetivo/motivación:**
 
-Su principal objetivo es ayudar a comprender y representar de manera estructurada y organizada los conceptos fundamentales, las entidades y las relaciones que existen en un dominio específico.
-
-ventajas de emplear este modelo:
-
-- Comprensión clara del dominio
-
-- Identificación de requisitos y reglas de negocio
-
-- Diseñar software con prospectiva eficiente
-
-
+Su principal objetivo con el proyecto es ayudar a comprender y representar de manera estructurada y organizada los conceptos fundamentales, las entidades y las relaciones que existen en el dominio.
 
 
 ![Modelo Anemico](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20funcional/Modelo%20anemico/ModeloAnemico.drawio.png)

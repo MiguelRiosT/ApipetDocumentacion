@@ -11,3 +11,5 @@
 <br>
 
 **Objetivo/motivación:**
+
+Para el proyecto es importante tener este diagrama para poder tener conocimiento sobre las clases que se manejan, esto tiene un gran peso en el apartado del desarrollo, además de afectar otros diagramas.

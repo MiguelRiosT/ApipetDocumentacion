@@ -1,6 +1,6 @@
- #  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vista funcional  #
 
-## **Event Storming** 
+
+## 1.2.1.1. Event Storming
 
 
 ![](https://github.com/MiguelRiosT/ApipetDocumentacion/blob/main/Dise%C3%B1o%20detallado/Vista%20funcional/EventStorming/EventStorming.drawio.png)
@@ -11,15 +11,8 @@
 
 **Objetivo/motivación:**
 
-Su objetivo principal es fomentar el entendimiento compartido y profundo del dominio del problema, identificar eventos y flujos de trabajo clave, y facilitar la colaboración entre los diferentes stakeholders y expertos en el dominio.
+Para el proyecto se hace muy necesario tener el Event Storming ya que permite identificar eventos y los flujos de trabajo claves, y abre el espacio a descubrir eventos importantes no tenidos en cuenta de forma que se puedan tener en mente en momentos tempranos de desarrollo.
 
-Algunos incentivos para realizar un Event Storming son:
-
-- Descubrir eventos importantes
-
-- Comunicación y alineación, esto al involucrar miembros del equipo paramejorar la comprensión del proyecto.
-
-- Visualización del flujo de trabajo
 
 **Documentación elementos que lo conforman:**
 
